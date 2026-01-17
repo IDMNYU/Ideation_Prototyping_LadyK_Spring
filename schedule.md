@@ -84,6 +84,153 @@ class </td> <td>
     <strong><u>Process Work</u></strong> <br>
 * stuff
     </td></tr>
+
+<tr>
+    <td valign="top">wk 3: <p> </p> </td>
+    <td valign="top"> 
+class </td> <td>
+    <strong><u>Reading & Reflection</u></strong><br>
+* stuff <br>
+    <strong><u>Process Work</u></strong> <br>
+* stuff
+    </td></tr> 
+
+
+<tr>
+    <td valign="top">wk 4: <p> </p> </td>
+    <td valign="top"> 
+class </td> <td>
+    <strong><u>Reading & Reflection</u></strong><br>
+* stuff <br>
+    <strong><u>Process Work</u></strong> <br>
+* stuff
+    </td></tr>
+
+
+<tr>
+    <td valign="top">wk 5: <p> </p> </td>
+    <td valign="top"> 
+class </td> <td>
+    <strong><u>Reading & Reflection</u></strong><br>
+* stuff <br>
+    <strong><u>Process Work</u></strong> <br>
+* stuff
+    </td></tr>
+
+<tr>
+    <td valign="top">wk 6: <p> </p> </td>
+    <td valign="top"> 
+class </td> <td>
+    <strong><u>Reading & Reflection</u></strong><br>
+* stuff <br>
+    <strong><u>Process Work</u></strong> <br>
+* stuff
+    </td></tr> 
+
+
+<tr>
+    <td valign="top">wk 7: <p> </p> </td>
+    <td valign="top"> 
+class </td> <td>
+    <strong><u>Reading & Reflection</u></strong><br>
+* stuff <br>
+    <strong><u>Process Work</u></strong> <br>
+* stuff
+    </td></tr>  
+
+
+<tr>
+    <td valign="top">Spring Break<p> </p> </td>
+    <td valign="top"> 
+</td> <td>
+    <strong><u>Relax</u></strong><br>
+ <br>
+    <strong><u>Have Fun</u></strong> <br>
+    </td></tr>
+
+<tr>
+    <td valign="top">wk 8: <p> </p> </td>
+    <td valign="top"> 
+class </td> <td>
+    <strong><u>Reading & Reflection</u></strong><br>
+* stuff <br>
+    <strong><u>Process Work</u></strong> <br>
+* stuff
+    </td></tr>
+
+
+<tr>
+    <td valign="top">wk 9: <p> </p> </td>
+    <td valign="top"> 
+class </td> <td>
+    <strong><u>Reading & Reflection</u></strong><br>
+* stuff <br>
+    <strong><u>Process Work</u></strong> <br>
+* stuff
+    </td></tr>
+
+
+<tr>
+    <td valign="top">wk 10: <p> </p> </td>
+    <td valign="top"> 
+class </td> <td>
+    <strong><u>Reading & Reflection</u></strong><br>
+* stuff <br>
+    <strong><u>Process Work</u></strong> <br>
+* stuff
+    </td></tr>
+
+<tr>
+    <td valign="top">wk 11: <p> </p> </td>
+    <td valign="top"> 
+class </td> <td>
+    <strong><u>Reading & Reflection</u></strong><br>
+* stuff <br>
+    <strong><u>Process Work</u></strong> <br>
+* stuff
+    </td></tr>
+
+
+<tr>
+    <td valign="top">wk 12: <p> </p> </td>
+    <td valign="top"> 
+class </td> <td>
+    <strong><u>Reading & Reflection</u></strong><br>
+* stuff <br>
+    <strong><u>Process Work</u></strong> <br>
+* stuff
+    </td></tr> 
+
+
+<tr>
+    <td valign="top">wk 13: <p> </p> </td>
+    <td valign="top"> 
+class </td> <td>
+    <strong><u>Reading & Reflection</u></strong><br>
+* stuff <br>
+    <strong><u>Process Work</u></strong> <br>
+* stuff
+    </td></tr>
+
+<tr>
+    <td valign="top">wk 14: <p> </p> </td>
+    <td valign="top"> 
+class </td> <td>
+    <strong><u>Reading & Reflection</u></strong><br>
+* stuff <br>
+    <strong><u>Process Work</u></strong> <br>
+* stuff
+    </td></tr>
+
+<tr>
+    <td valign="top">wk 15: <p> </p> </td>
+    <td valign="top"> 
+class </td> <td>
+    <strong><u>Reading & Reflection</u></strong><br>
+* stuff <br>
+    <strong><u>Process Work</u></strong> <br>
+* stuff
+    </td></tr>      
 	</table>
 
 **If a week shows no meaningful development from the previous week, that week will be evaluated as below satisfactory regardless of effort.**
