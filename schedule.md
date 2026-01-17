@@ -23,8 +23,8 @@ __Most readings and exercises are meant to influence ongoing projects. You are e
 <tr>
     <th width="8%">week</th>
     <th width="46%">(In)Class</th>
-    <th width="46%">Do For the following week <br> <br>(Assigned on Date Listed and due the following Saturday 9:00 AM EST) <tr> <th>Reading & Reflection </th> <th> Process Work </th> </th>
-</tr>
+    <th width="46%">Do For the following week <br> <br>(Assigned on Date Listed and due the following Saturday 9:00 AM EST) </tr> <tr><th width="46%">Reading & Reflection </th> <th> Process Work </th> </th>
+
 	</table>
 
 **If a week shows no meaningful development from the previous week, that week will be evaluated as below satisfactory regardless of effort.**
