@@ -41,12 +41,12 @@ Process Site setup (completed together in class; URL posted to Slack channel #st
 Introduction to Constant Input / Constant Output (CIO) as an ongoing, multi-week project
 </td>
     <td valign="top">
-    	Do for Next Week
+    	Do for Next Week:
 
-Due Saturday Sept 13 by 9:00am EST
+Post by Saturday Sept 13 by 9:00am EST
 Post all work to your Process Site under the specified categories.
 
-Setup & Orientation
+<underline><bold>Setup & Orientation</bold><underline></underline>
 
 Join Slack
 
@@ -56,7 +56,7 @@ Complete course survey
 
 Obtain Show Your Work by Austin Kleon and begin reading
 
-Reading & Reflection
+<underline><bold>Reading & Reflection</bold><underline></underline>
 
 Read:
 
@@ -66,7 +66,7 @@ Brown, The Miseducation of the Doodle
 
 Post a reflection responding to one article (not a summary). Focus on what challenged or resonated with you and why.
 
-Process Work
+<underline><bold>Process Work</bold><underline></underline>
 
 Create a dense, exploratory mind map connected to your Constant I/O project. This should demonstrate range, curiosity, and associative thinking.
 
@@ -81,7 +81,6 @@ Topics you return to in daydreaming or play
 
 This week establishes your baseline. Depth and range matter more than clarity.
 </td></tr>
-
 	</table>
 
 **If a week shows no meaningful development from the previous week, that week will be evaluated as below satisfactory regardless of effort.**
