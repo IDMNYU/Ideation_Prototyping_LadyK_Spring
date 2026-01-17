@@ -76,7 +76,7 @@ This week establishes your baseline. Depth and range matter more than clarity.
 </td></tr>
 
 <tr>
-    <td valign="top">wk 2: Jan 28 & February 2 <br> Add/Drop Dealine: Feb 2<p> </p> </td>
+    <td valign="top">wk 2: Jan 28 & February 2 <br> <br> Add/Drop Dealine: Feb 2 <br><br><b>Week 2 is about movement. Your work should visibly change from Week 1.<b> </td>
     <td valign="top"> 
 * Group discussion: mind maps and early CIO patterns
 
@@ -86,7 +86,7 @@ This week establishes your baseline. Depth and range matter more than clarity.
 
 * Discussion of Constant Input / Output as an evolving system
 
-* Overview of recommended tools and resources </td> <td>Continue developing work from Week 1. New work should build on—not replace—previous thinking.<br>
+* Overview of recommended tools and resources </td> <td>Continue developing work from Week 1. New work should build on—not replace—previous thinking.<br><br>
     <strong><u>Reading & Reflection</u></strong><br>
 * Read letters to the next cohort (Slack resources)
 
@@ -103,12 +103,10 @@ This week establishes your baseline. Depth and range matter more than clarity.
 * Include a reflection addressing how your thinking has changed since Week 1
 
 * Reference specific exercises and decisions outlined in the Week 2 brief
-
-<b>Week 2 is about movement. Your work should visibly change from Week 1.<b>
     </td></tr>
 
 <tr>
-    <td valign="top">wk 3: February 4th & 9th <br><s>This week marks the transition from exploration to intentional direction.</s> <br> </td>
+    <td valign="top">wk 3: February 4th & 9th <br><b>This week marks the transition from exploration to intentional direction.</b> <br> </td>
     <td valign="top"> 
 Future Project kickoff
 
@@ -122,7 +120,7 @@ Future Project kickoff
 
 * Cabinets of curiosity
 
-* Reading discussion: Questlove on collecting
+* Reading discussion: Questlove on Collecting
 
 * Time Management: Introduction to actionable task-based management </td> <td>
     <strong><u>Reading & Reflection</u></strong><br>
