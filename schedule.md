@@ -53,8 +53,6 @@ Introduction to Constant Input / Constant Output (CIO) as an ongoing, multi-week
 
 <strong><u>Reading & Reflection</u></strong>
 
-Read:
-
 * Rohde, Sketching: the Visual Thinking Power Tool
 
 * Brown, The Miseducation of the Doodle
@@ -76,6 +74,18 @@ Read:
 
 This week establishes your baseline. Depth and range matter more than clarity.
 </td></tr>
+
+<tr>
+    <td valign="top">wk 2: <p> </p> </td>
+    <td valign="top"> 
+class
+    	</td>
+    <strong><u>Reading & Reflection</u></strong>
+stuff
+    <strong><u>Process Work</u></strong>
+
+stuff
+    </td></tr>
 	</table>
 
 **If a week shows no meaningful development from the previous week, that week will be evaluated as below satisfactory regardless of effort.**
