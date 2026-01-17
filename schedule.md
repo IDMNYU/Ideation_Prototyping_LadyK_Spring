@@ -46,7 +46,7 @@ Introduction to Constant Input / Constant Output (CIO) as an ongoing, multi-week
 Post by Saturday Sept 13 by 9:00am EST
 Post all work to your Process Site under the specified categories.
 
-<underline><bold>Setup & Orientation</bold><underline></underline>
+<u><strong>Setup & Orientation</strong></u>
 
 Join Slack
 
@@ -56,7 +56,7 @@ Complete course survey
 
 Obtain Show Your Work by Austin Kleon and begin reading
 
-<underline><bold>Reading & Reflection</bold><underline></underline>
+<u><strong>Reading & Reflection</strong></u>
 
 Read:
 
@@ -66,7 +66,7 @@ Brown, The Miseducation of the Doodle
 
 Post a reflection responding to one article (not a summary). Focus on what challenged or resonated with you and why.
 
-<underline><bold>Process Work</bold><underline></underline>
+<u><strong>Process Work</strong></u>
 
 Create a dense, exploratory mind map connected to your Constant I/O project. This should demonstrate range, curiosity, and associative thinking.
 
