@@ -78,8 +78,7 @@ This week establishes your baseline. Depth and range matter more than clarity.
 <tr>
     <td valign="top">wk 2: <p> </p> </td>
     <td valign="top"> 
-class
-    	</td>
+class </td> <td>
     <strong><u>Reading & Reflection</u></strong>
 stuff
     <strong><u>Process Work</u></strong>
