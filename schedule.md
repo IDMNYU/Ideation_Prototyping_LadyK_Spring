@@ -106,7 +106,7 @@ Introduction to Constant Input / Constant Output (CIO) as an ongoing, multi-week
 
 
 <tr>
-    <td valign="top">wk 3: February 4th & 9th <br><b>This week marks the transition from exploration to intentional direction.</b> <br>  <br><b>This week introduces intentional choice. You are expected to begin narrowing focus—without locking in conclusions. </b></td>
+    <td valign="top">wk 3: February 4th & 9th <br><br><b>This week marks the transition from exploration to intentional direction. As well, you are introduced to intentional choice. You are expected to begin narrowing focus—without locking in conclusions. </b></td>
     <td valign="top"> 
 
 * Future Project kickoff
