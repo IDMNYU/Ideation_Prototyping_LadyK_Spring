@@ -60,23 +60,23 @@ Post all work to your Process Site under the specified categories.
 
 Read:
 
-Rohde, Sketching: the Visual Thinking Power Tool
+* Rohde, Sketching: the Visual Thinking Power Tool
 
-Brown, The Miseducation of the Doodle
+* Brown, The Miseducation of the Doodle
 
-Post a reflection responding to one article (not a summary). Focus on what challenged or resonated with you and why.
+* Post a reflection responding to one article (not a summary). Focus on what challenged or resonated with you and why.
 
-<strong><u>TProcess Work</u></strong>
+<strong><u>Process Work</u></strong>
 
-Create a dense, exploratory mind map connected to your Constant I/O project. This should demonstrate range, curiosity, and associative thinking.
+* Create a dense, exploratory mind map connected to your Constant I/O project. This should demonstrate range, curiosity, and associative thinking.
 
-Write a reflection exploring:
+* Write a reflection exploring:
 
-Interests from childhood
+	* Interests from childhood
 
-Long-standing fascinations
+	* Long-standing fascinations
 
-Topics you return to in daydreaming or play
+	* Topics you return to in daydreaming or play
 (This reflection establishes personal input streams for your Constant I/O project.)
 
 This week establishes your baseline. Depth and range matter more than clarity.
