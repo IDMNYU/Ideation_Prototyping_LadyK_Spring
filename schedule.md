@@ -48,13 +48,13 @@ Post all work to your Process Site under the specified categories.
 
 <strong><u>Setup & Orientation</u></strong>
 
-Join Slack
+* Join Slack
 
-Acquire sketchbook and required drawing tools
+* Acquire sketchbook and required drawing tools
 
-Complete course survey
+* Complete course survey
 
-Obtain Show Your Work by Austin Kleon and begin reading
+* Obtain Show Your Work by Austin Kleon and begin reading
 
 <strong><u>Reading & Reflection</u></strong>
 
