@@ -80,8 +80,8 @@ This week establishes your baseline. Depth and range matter more than clarity.
     <td valign="top"> 
 class </td> <td>
     <strong><u>Reading & Reflection</u></strong>
-stuff
-    <strong><u>Process Work</u></strong>
+stuff <br>
+    <strong><u>Process Work</u></strong> <br>
 
 stuff
     </td></tr>
