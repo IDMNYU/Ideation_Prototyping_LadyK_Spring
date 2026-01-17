@@ -23,9 +23,9 @@ __Most readings and exercises are meant to influence ongoing projects. You are e
 <tr>
     <th width="8%">week</th>
     <th width="46%"> In Class</th>
-    <th width="46%">Do For the following week <br> <br>(Assigned on Date Listed and due the following Saturday 9:00 AM EST) </tr>
+    <th width="46%">Do For the following week <br> <br>(Assigned on Date Listed and due the following Saturday after the week ends 9:00 AM EST) </tr>
 <tr>
-    <td valign="top">wk 1: <p> </p> </td>
+    <td valign="top">wk 1: Jan 21 & 26<p> </p> </td>
     <td valign="top"> 
 
 Course introductions and orientation
@@ -76,7 +76,75 @@ This week establishes your baseline. Depth and range matter more than clarity.
 </td></tr>
 
 <tr>
-    <td valign="top">wk 2: <p> </p> </td>
+    <td valign="top">wk 2: Jan 28 & February 2 <br> Add/Drop Dealine: Feb 2<p> </p> </td>
+    <td valign="top"> 
+* Group discussion: mind maps and early CIO patterns
+
+* Screening: The Creative Brain (David Eagleman)
+
+* Process Site skills: uploading and annotating images
+
+* Discussion of Constant Input / Output as an evolving system
+
+* Overview of recommended tools and resources </td> <td>Continue developing work from Week 1. New work should build on—not replace—previous thinking.<br>
+    <strong><u>Reading & Reflection</u></strong><br>
+* Read letters to the next cohort (Slack resources)
+
+* Post a reflection responding to themes or advice that feels relevant to where you are now
+
+* Continue reading Show Your Work
+
+* Write a short reflection on The Creative Brain, focusing on ideas that shifted your understanding of creativity <br>
+    <strong><u>Process Work</u></strong> <br>
+* Constant Input / Output (Week 2):
+
+* Post documentation of your process and outcomes
+
+* Include a reflection addressing how your thinking has changed since Week 1
+
+* Reference specific exercises and decisions outlined in the Week 2 brief
+
+<b>Week 2 is about movement. Your work should visibly change from Week 1.<b>
+    </td></tr>
+
+<tr>
+    <td valign="top">wk 3: February 4th & 9th <br><s>This week marks the transition from exploration to intentional direction.</s> <br> </td>
+    <td valign="top"> 
+Future Project kickoff
+
+* Tool for creativity: Yes, And (imagination, attitude, openness)
+
+* Discussion:
+
+	* Assumptions and idea formation (James Webb Young)
+
+* Collecting as a creative practice
+
+* Cabinets of curiosity
+
+* Reading discussion: Questlove on collecting
+
+* Time Management: Introduction to actionable task-based management </td> <td>
+    <strong><u>Reading & Reflection</u></strong><br>
+* Questlove, Thoughts on Collecting (NYT). Be prepared to discuss. <br>
+    <strong><u>Process Work</u></strong> <br>
+* stuff 
+    </td></tr> 
+
+
+<tr>
+    <td valign="top">wk 4: February 11th & 17th <p> </p> </td>
+    <td valign="top"> 
+class </td> <td>
+    <strong><u>Reading & Reflection</u></strong><br>
+* stuff <br>
+    <strong><u>Process Work</u></strong> <br>
+* stuff
+    </td></tr>
+
+
+<tr>
+    <td valign="top">wk 5: February 18th & 23rd <p> </p> </td>
     <td valign="top"> 
 class </td> <td>
     <strong><u>Reading & Reflection</u></strong><br>
@@ -86,7 +154,7 @@ class </td> <td>
     </td></tr>
 
 <tr>
-    <td valign="top">wk 3: <p> </p> </td>
+    <td valign="top">wk 6: February 25th & March 2nd<p> </p> </td>
     <td valign="top"> 
 class </td> <td>
     <strong><u>Reading & Reflection</u></strong><br>
@@ -97,39 +165,7 @@ class </td> <td>
 
 
 <tr>
-    <td valign="top">wk 4: <p> </p> </td>
-    <td valign="top"> 
-class </td> <td>
-    <strong><u>Reading & Reflection</u></strong><br>
-* stuff <br>
-    <strong><u>Process Work</u></strong> <br>
-* stuff
-    </td></tr>
-
-
-<tr>
-    <td valign="top">wk 5: <p> </p> </td>
-    <td valign="top"> 
-class </td> <td>
-    <strong><u>Reading & Reflection</u></strong><br>
-* stuff <br>
-    <strong><u>Process Work</u></strong> <br>
-* stuff
-    </td></tr>
-
-<tr>
-    <td valign="top">wk 6: <p> </p> </td>
-    <td valign="top"> 
-class </td> <td>
-    <strong><u>Reading & Reflection</u></strong><br>
-* stuff <br>
-    <strong><u>Process Work</u></strong> <br>
-* stuff
-    </td></tr> 
-
-
-<tr>
-    <td valign="top">wk 7: <p> </p> </td>
+    <td valign="top">wk 7: March 4th & 9th<p> </p> </td>
     <td valign="top"> 
 class </td> <td>
     <strong><u>Reading & Reflection</u></strong><br>
@@ -140,7 +176,7 @@ class </td> <td>
 
 
 <tr>
-    <td valign="top">Spring Break<p> </p> </td>
+    <td valign="top">Spring Break March 16-20<p> </p> </td>
     <td valign="top"> 
 </td> <td>
     <strong><u>Relax</u></strong><br>
@@ -149,7 +185,7 @@ class </td> <td>
     </td></tr>
 
 <tr>
-    <td valign="top">wk 8: <p> </p> </td>
+    <td valign="top">wk 8: March 11th & 23rd <p> </p> </td>
     <td valign="top"> 
 class </td> <td>
     <strong><u>Reading & Reflection</u></strong><br>
@@ -160,7 +196,7 @@ class </td> <td>
 
 
 <tr>
-    <td valign="top">wk 9: <p> </p> </td>
+    <td valign="top">wk 9: March 25th & 30th <p> </p> </td>
     <td valign="top"> 
 class </td> <td>
     <strong><u>Reading & Reflection</u></strong><br>
@@ -171,7 +207,7 @@ class </td> <td>
 
 
 <tr>
-    <td valign="top">wk 10: <p> </p> </td>
+    <td valign="top">wk 10: April 1st & 6th <p> </p> </td>
     <td valign="top"> 
 class </td> <td>
     <strong><u>Reading & Reflection</u></strong><br>
@@ -181,7 +217,7 @@ class </td> <td>
     </td></tr>
 
 <tr>
-    <td valign="top">wk 11: <p> </p> </td>
+    <td valign="top">wk 11: April 8th & 13th <p> </p> </td>
     <td valign="top"> 
 class </td> <td>
     <strong><u>Reading & Reflection</u></strong><br>
@@ -192,7 +228,7 @@ class </td> <td>
 
 
 <tr>
-    <td valign="top">wk 12: <p> </p> </td>
+    <td valign="top">wk 12: April 15th & 20th <br> Last day for Pass/Fail: April 16th<p> </p> </td>
     <td valign="top"> 
 class </td> <td>
     <strong><u>Reading & Reflection</u></strong><br>
@@ -203,7 +239,7 @@ class </td> <td>
 
 
 <tr>
-    <td valign="top">wk 13: <p> </p> </td>
+    <td valign="top">wk 13: April 22nd & 27th <p> </p> </td>
     <td valign="top"> 
 class </td> <td>
     <strong><u>Reading & Reflection</u></strong><br>
@@ -213,7 +249,7 @@ class </td> <td>
     </td></tr>
 
 <tr>
-    <td valign="top">wk 14: <p> </p> </td>
+    <td valign="top">wk 14: April 29th & May 4th<p> </p> </td>
     <td valign="top"> 
 class </td> <td>
     <strong><u>Reading & Reflection</u></strong><br>
@@ -223,7 +259,7 @@ class </td> <td>
     </td></tr>
 
 <tr>
-    <td valign="top">wk 15: <p> </p> </td>
+    <td valign="top">wk 15: May 6th & 11th <p> </p> </td>
     <td valign="top"> 
 class </td> <td>
     <strong><u>Reading & Reflection</u></strong><br>
