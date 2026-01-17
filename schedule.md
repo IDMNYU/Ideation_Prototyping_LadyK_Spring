@@ -22,11 +22,11 @@ __Most readings and exercises are meant to influence ongoing projects. You are e
 <table min-width = "100%">
 <tr>
     <th width="8%">week</th>
-    <th width="46%">(In)Class</th>
+    <th width="46%"> In Class</th>
     <th width="46%">Do For the following week <br> <br>(Assigned on Date Listed and due the following Saturday 9:00 AM EST) </tr>
 <tr>
     <td valign="top">wk 1: <p> </p> </td>
-    <td valign="top">In Class 
+    <td valign="top"> 
 
 Course introductions and orientation
 
@@ -41,11 +41,6 @@ Process Site setup (completed together in class; URL posted to Slack channel #st
 Introduction to Constant Input / Constant Output (CIO) as an ongoing, multi-week project
 </td>
     <td valign="top">
-    	Post for Next Week:
-
-Post by Saturday Sept 13 by 9:00am EST
-Post all work to your Process Site under the specified categories.
-
 <strong><u>Setup & Orientation</u></strong>
 
 * Join Slack
