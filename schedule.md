@@ -25,7 +25,7 @@ __Most readings and exercises are meant to influence ongoing projects. You are e
     <th width="46%"> In Class</th>
     <th width="46%">Do For the following week <br> <br>(Assigned on Date Listed and due the following Saturday after the week ends 9:00 AM EST) </tr>
 <tr>
-    <td valign="top">wk 1: Jan 21 & 26<p> </p> </td>
+    <td valign="top">wk 1: Jan 21 & 26<p> <br><br> <b>This week establishes your baseline. Depth and range matter more than clarity.</b></p> </td>
     <td valign="top"> 
 
 Course introductions and orientation
@@ -71,13 +71,12 @@ Introduction to Constant Input / Constant Output (CIO) as an ongoing, multi-week
 
 	* Topics you return to in daydreaming or play
 (This reflection establishes personal input streams for your Constant I/O project.)
-
-This week establishes your baseline. Depth and range matter more than clarity.
 </td></tr>
 
 <tr>
     <td valign="top">wk 2: Jan 28 & February 2 <br> <br> Add/Drop Dealine: Feb 2 <br><br><b>Week 2 is about movement. Your work should visibly change from Week 1.<b> </td>
     <td valign="top"> 
+
 * Group discussion: mind maps and early CIO patterns
 
 * Screening: The Creative Brain (David Eagleman)
@@ -105,10 +104,12 @@ This week establishes your baseline. Depth and range matter more than clarity.
 * Reference specific exercises and decisions outlined in the Week 2 brief
     </td></tr>
 
+
 <tr>
-    <td valign="top">wk 3: February 4th & 9th <br><b>This week marks the transition from exploration to intentional direction.</b> <br> </td>
+    <td valign="top">wk 3: February 4th & 9th <br><b>This week marks the transition from exploration to intentional direction.</b> <br>  <br><b>This week introduces intentional choice. You are expected to begin narrowing focus—without locking in conclusions. </b></td>
     <td valign="top"> 
-Future Project kickoff
+
+* Future Project kickoff
 
 * Tool for creativity: Yes, And (imagination, attitude, openness)
 
@@ -126,7 +127,25 @@ Future Project kickoff
     <strong><u>Reading & Reflection</u></strong><br>
 * Questlove, Thoughts on Collecting (NYT). Be prepared to discuss. <br>
     <strong><u>Process Work</u></strong> <br>
-* stuff 
+* Constant Input / Output:
+	* Continue developing your project based on identified questions, tensions, or problems. Document decisions and pivots.
+
+* Yes, And Reflection:
+Write about a personal Yes, And experience. What shifted? What surprised you?
+
+* Future Project (Exploratory Phase):
+
+	* Create a mind map exploring possible future project topics
+
+	* Include a short reflection articulating:
+
+		* Which directions feel compelling
+
+		* What questions remain unresolved
+
+	_You are not selecting a final topic yet_.
+
+* Implement the Actionable Tasks time management system and reflect on how it affected your workflow.
     </td></tr> 
 
 
