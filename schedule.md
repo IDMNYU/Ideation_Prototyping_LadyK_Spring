@@ -26,7 +26,7 @@ __Most readings and exercises are meant to influence ongoing projects. You are e
     <th width="46%">Do For the following week <br> <br>(Assigned on Date Listed and due the following Saturday 9:00 AM EST) </tr>
 <tr>
     <td valign="top">wk 1: <p> </p> </td>
-    <td valign="top"><p>In Class </p> </td>
+    <td valign="top">In Class 
 
 Course introductions and orientation
 
