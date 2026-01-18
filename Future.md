@@ -53,7 +53,7 @@ Required Evidence (Posted to your Process Site under “Future Project”)
 
 * Brainstorming and exploration using at least 4 of the following methods:
 
-	How Might We…
+	* How Might We…
 
 	Statement Starters
 
@@ -156,54 +156,54 @@ Future Project Grading Rubric
 
 This rubric evaluates the trajectory of your work, not isolated deliverables. A polished final outcome does not compensate for weak process. Strong process can compensate for imperfect outcomes.
 
-	**1. Process & Iteration (35%)**
+	 1. ####Process & Iteration (35%)
 
-		Clear week-to-week development
+		* Clear week-to-week development
 
-		Evidence of extended effort beyond first ideas
+		* Evidence of extended effort beyond first ideas
 
-		Meaningful pivots, refinements, and re-framing
+		* Meaningful pivots, refinements, and re-framing
 
-		Visible response to feedback
+		* Visible response to feedback
 
 High: Work evolves substantially across time
 Low: Work remains static or superficially altered
 
 2. Research Integration & Plausibility (25%)
 
-	Research meaningfully shapes decisions
+	* Research meaningfully shapes decisions
 
-	Sources are diverse, relevant, and critically engaged
+	* Sources are diverse, relevant, and critically engaged
 
-	Speculative elements are grounded in logic or systems
+	* Speculative elements are grounded in logic or systems
 
 High: Research transforms the world-building
 Low: Research is decorative or disconnected
 
 3. Conceptual Depth & Systems Thinking (20%)
 
-	Future world demonstrates internal logic
+	* Future world demonstrates internal logic
 
-	Ethical, social, or systemic consequences are considered
+	* Ethical, social, or systemic consequences are considered
 
-	Relationships between people, systems, and artifacts are clear
+	* Relationships between people, systems, and artifacts are clear
 
 High: World feels complex and lived-in
 Low: World relies on clichés or naïve futurism
 
 4. Artifact & Material Exploration (10%)
 
-	Artifact meaningfully emerges from the world
+	* Artifact meaningfully emerges from the world
 
-	Prototyping shows exploration, not just execution
+	* Prototyping shows exploration, not just execution
 
-	Form supports narrative and system logic
+	* Form supports narrative and system logic
 
 5. Communication & Documentation (10%)
 
-	Process Site is clear, annotated, and navigable
+	* Process Site is clear, annotated, and navigable
 
-	Reflections articulate decisions and uncertainties
+	* Reflections articulate decisions and uncertainties
 
-	Final presentation communicates the world effectively
+	* Final presentation communicates the world effectively
 
