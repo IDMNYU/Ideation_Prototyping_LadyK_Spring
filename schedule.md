@@ -46,7 +46,7 @@ Introduction to <a href = "constant_input_output.md">Constant Input / Constant O
     <td valign="top">
 <strong><u>Setup & Orientation</u></strong>
 
-* Join Slack
+* [Join Slack](https://join.slack.com/t/ideationproto-jez5636/shared_invite/zt-3np31qu9i-_HYODEdVsk0yuVGV6MPWww)
 
 * Acquire sketchbook and required drawing tools
 
