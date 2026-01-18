@@ -109,10 +109,7 @@ Introduction to <a href = "constant_input_output.md">Constant Input / Constant O
 
 <tr>
     <td valign="top">wk 3: February 4th & 9th <br><br><b> >This week marks the transition from exploration to intentional direction. As well, you are introduced to intentional choice. You are expected to begin narrowing focus—without locking in conclusions. </b></td>
-    <td valign="top"> 
-
-
-
+    <td valign="top">
 * Tool for creativity: Yes, And (imagination, attitude, openness)
 
 * Discussion:
@@ -128,7 +125,6 @@ Introduction to <a href = "constant_input_output.md">Constant Input / Constant O
 * Observations from Iterative Object Process
 
 * Time Management: Introduction to <a href = "tm_actionableTask.md">actionable tasks </a> and task management </td> <td>
-
 <strong><u>Reading & Analysis</u></strong><br>
 * <a href ="https://www.nytimes.com/2022/03/25/opinion/questlove-inspiration-collection.html" >Questlove, Thoughts on Collecting (NYT).</a> Be prepared to discuss. <br><br>
 
@@ -205,14 +201,14 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 
 
 <tr>
-    <td valign="top">wk 7: March 4th & 9th<p> </p> </td>
+    <td valign="top">week 7: March 4th & 9th<p> </p> </td>
     <td valign="top"> 
 
-* Short Presentations regarding your Iterative Object Process</td> 
+* Short Presentations regarding your Iterative Object Process
 * Observations of Future Project Topics
 * Assumptions
 * Introduction: Moodboard & Stakeholders
-* Time in Class : Categories & mindmaps
+* Time in Class : Categories & mindmaps </td> 
 
 <td>
  <strong><u>Reading & Analyze</u></strong><br>
@@ -224,7 +220,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Begin to Identify Stakeholders within your topic with reference to this world
 * Pick 4 of the 11 categories from the game Investing in the Future, to integrate into your world
 * Start to develop mindmaps or lists for each of these categories.
-* What are you assuming about your topic. [See the Miro board example]((https://miro.com/app/board/uXjVLWECVQo=/?share_link_id=191395479074) Use this as a template. Do an extensive investgation of your assumptions. What are the dangers in these assumptions? How are they impacting your research? (post under Future Project)
+* What are you assuming about your topic. [See the Miro board example](https://miro.com/app/board/uXjVLWECVQo=/?share_link_id=191395479074) Use this as a template. Do an extensive investgation of your assumptions. What are the dangers in these assumptions? How are they impacting your research? (post under Future Project)
     </td></tr>  
 
 
