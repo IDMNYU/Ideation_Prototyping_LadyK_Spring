@@ -55,26 +55,26 @@ Required Evidence (Posted to your Process Site under “Future Project”)
 
 	* How Might We…
 
-	Statement Starters
+	* Statement Starters
 
-	5 Whys
+	* 5 Whys
 
-	Assumptions
+	* Assumptions
 
-	Bad Idea / Reverse Brainstorming
+	* Bad Idea / Reverse Brainstorming
 
-	Creative Matrix
+	* Creative Matrix
 
-	5WH
+	* 5WH
 (You must demonstrate the Extended Effort Principle.)
 
 * Research evidence, integrated into your thinking (not listed as decoration), including:
 
-	Articles, books, journals
+	* Articles, books, journals
 
-	News, podcasts, films
+	* News, podcasts, films
 
-	UMD methods and documentation
+	* UMD methods and documentation
 
 * Assumption maps
 
@@ -156,7 +156,7 @@ Future Project Grading Rubric
 
 This rubric evaluates the trajectory of your work, not isolated deliverables. A polished final outcome does not compensate for weak process. Strong process can compensate for imperfect outcomes.
 
-	 1. ####Process & Iteration (35%)
+1. **Process & Iteration (35%)**
 
 		* Clear week-to-week development
 
@@ -169,7 +169,7 @@ This rubric evaluates the trajectory of your work, not isolated deliverables. A 
 High: Work evolves substantially across time
 Low: Work remains static or superficially altered
 
-2. Research Integration & Plausibility (25%)
+2. **Research Integration & Plausibility (25%)**
 
 	* Research meaningfully shapes decisions
 
@@ -180,7 +180,7 @@ Low: Work remains static or superficially altered
 High: Research transforms the world-building
 Low: Research is decorative or disconnected
 
-3. Conceptual Depth & Systems Thinking (20%)
+3. **Conceptual Depth & Systems Thinking (20%)**
 
 	* Future world demonstrates internal logic
 
@@ -191,7 +191,7 @@ Low: Research is decorative or disconnected
 High: World feels complex and lived-in
 Low: World relies on clichés or naïve futurism
 
-4. Artifact & Material Exploration (10%)
+4. **Artifact & Material Exploration (10%)**
 
 	* Artifact meaningfully emerges from the world
 
@@ -199,7 +199,7 @@ Low: World relies on clichés or naïve futurism
 
 	* Form supports narrative and system logic
 
-5. Communication & Documentation (10%)
+5. **Communication & Documentation (10%)**
 
 	* Process Site is clear, annotated, and navigable
 
