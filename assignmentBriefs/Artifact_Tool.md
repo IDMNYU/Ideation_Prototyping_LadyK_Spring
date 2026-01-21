@@ -110,6 +110,7 @@ The artifact is successful if it makes your future world more believable—not m
 	* The artifact deepens or complicates the Future Project
 
 High: Object reveals new insight about the future
+
 Low: Object feels decorative or generic
 
 2. Process & Decision-Making (30%)
@@ -121,6 +122,7 @@ Low: Object feels decorative or generic
 	* Reflection demonstrates learning through making
 
 High: Making is used as a thinking tool
+
 Low: Object appears without explanation
 
 3. Physical Realization (20%)
@@ -132,6 +134,7 @@ Low: Object appears without explanation
 	* Materials and form are intentional
 
 High: Form reinforces meaning
+
 Low: Form is arbitrary or rushed
 
 4. Documentation & Communication (10%)
