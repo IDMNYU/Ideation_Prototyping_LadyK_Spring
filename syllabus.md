@@ -316,9 +316,9 @@ Please also see [Grade Integrity Policy](Grade_Integrity_Policy.md)
 
 *   10% Class participation: discussion and feedback of your peers, cognitive presence in class, discussion of your work and challenges, your activity within the class community inside and outside of class
 *   5% [Self Assessments](self_assessments.md) (2.5% each)
-*   25%  [The Iterative Object Project](IterativeObjectProject.md
+*   25%  [The Iterative Object Project](IterativeObjectProject.md)
 *   20% [Process Website](processWebsite.md), including all written reflections for ALL posts, including time Management, Class exercises, Article reflections
-*   10%  [Future Artifact]("/assignmentBriefs/Artifact_Tool.md")
+*   10%  [Future Artifact](/assignmentBriefs/Artifact_Tool.md)
 *   20% [Future Project Development](Future.md) 
 *   10% Project Final Presentation + Process
 
