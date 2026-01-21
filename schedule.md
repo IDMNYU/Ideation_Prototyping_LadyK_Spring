@@ -56,7 +56,7 @@ In-class exercises focused on expanding idea space
 
 <strong>Reading & Reflection</strong>
 
-* <a href ="<a href = https://alistapart.com/article/sketching-the-visual-thinking-power-tool">Rohde, Sketching: the Visual Thinking Power Tool</a>
+* <a href ="https://alistapart.com/article/sketching-the-visual-thinking-power-tool">Rohde, Sketching: the Visual Thinking Power Tool</a>
 
 * <a href = "https://alistapart.com/article/the-miseducation-of-the-doodle">Brown, The Miseducation of the Doodle </a>
 
@@ -74,6 +74,8 @@ In-class exercises focused on expanding idea space
 
 	* Topics you return to in daydreaming or play
 (This reflection establishes personal input streams for project topics for the semester.)
+
+<strong>^^Post all before Janurary 31 9am ^^</strong>
 </td></tr>
 
 <tr>

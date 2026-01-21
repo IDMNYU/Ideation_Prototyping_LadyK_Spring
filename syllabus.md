@@ -54,7 +54,7 @@ Prerequisite: None
 [Student Responsibilites](#Student-Responsibilities)\
 [Technology In The Classroom](#Technology-In-The-Classroom)\
 [Time Estimate per Week](#Time-Estimates-Per-Week)\
-[Using Generative AI](#Using-Generative-AI)\
+[Using Generative AI](#Using-Generative-AI)
 
 #### [Slack workspace](https://ideationproto-jez5636.slack.com) The URL is:  You must first have an account with Slack. Once you've signed up with Slack, you may join our workspace using the following link (only good for 30 days): 
 
