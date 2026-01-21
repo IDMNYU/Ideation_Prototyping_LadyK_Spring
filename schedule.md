@@ -191,7 +191,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 
 * Observations from Iterative Object Process 
 * Investing In The Futures Class Exercise 
-* Time Management: <b>this is a 2 week study</b><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Capture & Note time usage in 20 minute increments</a>
+* Time Management: <b>this is a 2 week study</b><br><br><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Capture & Note time usage in 20 minute increments</a>
 </td> <td>
 
 <strong><u>Reading & Analyze</u></strong><br>
@@ -213,7 +213,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 
 	_You are not selecting a final topic yet_.
 
-* Time Management: <b>this is a 2 week study</b><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Capture & Note time usage in 20 minute increments</a>
+* Time Management: <b>this is a 2 week study</b><br><br><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Capture & Note time usage in 20 minute increments</a>
   </td></tr> 
 
 
@@ -226,7 +226,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Assumptions
 * Introduction: Moodboard & Stakeholders
 * Time in Class : Categories & mindmaps 
-* Time Management: <b>this is a 2 week study</b><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Reorganize your time</a></td> 
+* Time Management: <b>this is a 2 week study<br><br></b><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Reorganize your time</a></td> 
 
 <td>
  <strong><u>Reading & Analyze</u></strong><br>
@@ -268,7 +268,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * [The 5 Why's & using it to help deepen your understanding and research](https://miro.com/app/board/uXjVLk2bckY=/?share_link_id=177816181183)
 
 * Concept Maps & Inclass Exercise
-* Time Management: <a href = "/TimeManagementTechniques/tm_WillPower.md">Willpower</a>
+* Time Management: <a href = "/TimeManagementTechniques/tm_Willpower.md">Willpower</a>
 
 </td> <td>
 
@@ -281,7 +281,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Collect 2 resources regarding some of your  *categories* topic of your Future project & give a short analysis of their use & importance with reference to your project (post under Future Project)
 * Develop your Stakeholders and Moodboard considering your research. What do you notice about the complexity & diversity of your Stakeholders? (post under Future Project)
 * Begin developing your Concept Map for your Future Project. What do you not know at this point with reference to your topic? What research can you do to strengthen your project? (post under Future Project)
-* Time Management: <a href = "/TimeManagementTechniques/tm_WillPower.md">Willpower</a>
+* Time Management: <a href = "/TimeManagementTechniques/tm_Willpower.md">Willpower</a>
     </td></tr>
 
 
@@ -293,7 +293,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Sticky Steps 
 * Ethics Exercises 
 * <a href = "/assignmentBriefs/Artifact_Tool.md"> Future Artifact </a>
-* Time Management: <b> This is a two week study</b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Observe your energy throughout several days. Document.</a></td> <td>
+* Time Management: <b> This is a two week study<br><br></b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Observe your energy throughout several days. Document.</a></td> <td>
 
 <strong><u>Reading & Analyze</u></strong><br>
 * Feedback for 2 of your classmates <br><br>
@@ -305,7 +305,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Identify 3 other resources for your project. Discuss how they will help your project.
 * Post your Ethics exercise work. How does this impact your perspective of the Future Project? How does this inform new possibilities and new things to research?
 * <a href = "/assignmentBriefs/Artifact_Tool.md"> Future Artifact </a>
-* Time Management: <b> This is a two week study</b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Observe your energy throughout several days. Document.</a>
+* Time Management: <b> This is a two week study<br><br></b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Observe your energy throughout several days. Document.</a>
     </td></tr>
 
 
@@ -317,7 +317,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Artifact
 * Thing From The Future
 * Storyboards 
-* Time Management: <b> This is a two week study</b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Reorder your tasks appropriate to your energy mapping</a></td> <td>
+* Time Management: <b> This is a two week study<br><br></b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Reorder your tasks appropriate to your energy mapping</a></td> <td>
 
 <strong><u>Reading & Analyze</u></strong><br>
 * Give feedback to 2 of your classmates <br><br>
