@@ -94,7 +94,7 @@ Please manage your time and do. not. do. your. homework. in. one. sitting. It wi
 * Time Management - 15-25 minutes
 * Prototyping; Design Exercises; News Research; Future Project - 60-180 minutes
 * Updating Blog with documentation of work and written Design Autopsy/Failure Report - 30-90 minutes
-* Readings from required books and links - 30 minutes
+* Readings from required books and links - 40 - 60 minutes
 
 [Back To The Top](#Syllabus-Short-Cuts)
 
@@ -468,6 +468,7 @@ Faculty can provide course accommodations/modifications only after receipt of an
 *   paper, scissors/craft knife, hot glue + gun, tape, toothpicks, popsicle sticks, string, cardboard (save your cardboard shipping boxes, etc), legos, tinkertoys, wood, etc.
 * Sharpie or other markers
 * [Show Your Work by Austin Kleon](https://www.goodreads.com/book/show/18290401-show-your-work?ref=nav_sb_ss_1_18)
+* [Don't Read This Book By Donald Roos](https://www.goodreads.com/book/show/27150876-don-t-read-this-book)
 
 
 [Back To The Top](#Syllabus-Short-Cuts)
@@ -515,7 +516,7 @@ There will be several drafts and versions of each. All are required to be submit
 
 #### On-Going Assignments
 
-* [Constant Input/Output](constant_input_output.md)
+* [Process Website](process_website.md) - Writing & Posts about assignments & activities
 * [Time Management Exercises](Time_Management_System.md)
 
 
