@@ -32,7 +32,30 @@ Prerequisite: None
 
 #### [IDM Tech Training](https://brightspace.nyu.edu/d2l/home/379585)
 
-#### [Slack workspace]() The URL is:  You must first have an account with Slack. Once you've signed up with Slack, you may join our workspace using the following link (only good for 30 days): 
+# Syllabus Short Cuts:
+[Academic Integrity](#Academic-Integrity)\
+[Accomodations](#ACADEMIC-ACCOMMODATIONS)\
+[Assignment Links](#Assignment-links)\
+[Attendance](#Attendance)\
+[Communication](#Communication)\
+[Course Goals](#Course-Goals)\
+[Course Structure](#Course-Structure)\
+[Evaluation & Grading](#Evaluation-and-Grading)\
+[Grade Breakdown](#Quantitative-Grading-Breakdown)\
+[Inclusion](#Inclusion)\
+[Late Work](#Late-Work)\
+[Learning Outcomes](#Learning-Outcomes)\
+[Program Goals](#PROGRAM-GOALS)\
+[Required Media](#Required-Media)\
+[Required Readings](#Required-Readings)\
+[Required Supplies](#Required-Supplies)\
+[Special Notes About This Class](#Special-Note-about-work-for-this-class)\
+[Student Responsibilites](#Student-Responsibilities)\
+[Technology In The Classroom](#Technology-In-The-Classroom)\
+[Time Estimate per Week](#Time-Estimates-Per-Week)\
+[Using Generative AI](#Using-Generative-AI)\
+
+#### [Slack workspace](https://ideationproto-jez5636.slack.com) The URL is:  You must first have an account with Slack. Once you've signed up with Slack, you may join our workspace using the following link (only good for 30 days): 
 
 ### PROGRAM GOALS
 
