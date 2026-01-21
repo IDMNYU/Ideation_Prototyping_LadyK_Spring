@@ -30,7 +30,7 @@ Prerequisite: None
 
 #### [Maker Center Training](http://makerspace.engineering.nyu.edu/training-and-reservations/)
 
-#### [IDM Tech Training](https://brightspace.nyu.edu/d2l/home/379585)
+#### [IDM Tech Training](https://wp.nyu.edu/idmtech/) (link to training at the bottom of the page)
 
 # Syllabus Short Cuts:
 [Academic Integrity](#Academic-Integrity)\

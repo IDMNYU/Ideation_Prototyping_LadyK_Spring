@@ -75,7 +75,7 @@ In-class exercises focused on expanding idea space
 	* Topics you return to in daydreaming or play
 (This reflection establishes personal input streams for project topics for the semester.)
 
-<strong>^^Post all before Janurary 31 9am ^^</strong>
+<strong>^^Post all before January 31 9am ^^</strong>
 </td></tr>
 
 <tr>
@@ -106,7 +106,8 @@ In-class exercises focused on expanding idea space
 
 * Post documentation of your process and outcomes
 
-* Time Management: Introduction to <a href = "/TimeManagementTechniques/tm_actionableTask.md">actionable tasks </a> and task management
+* Time Management: Introduction to <a href = "/TimeManagementTechniques/tm_actionableTask.md">actionable tasks </a> and task management <br><br>
+<strong>^^Post all before February 7 9am ^^</strong>
 
     </td></tr>
 
@@ -139,6 +140,8 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 
 * Time Management: <a href = "/TimeManagementTechniques/tm_TimeBlockingTaskManagement.md">Time Blocking & Task Management post an anaylsis of your useage of this for the next post date</a>
 
+<strong>^^Post all before February 14 9am ^^</strong>
+
     </td></tr> 
 
 
@@ -159,8 +162,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 
 <strong><u>Process Work</u></strong> <br>
 * [Iterative Object Project](IterativeObjectProject) Week 3
-* Time Management: <a href = "/TimeManagementTechniques/tm_TimeBlockingTaskManagement.md">Time Blocking and task management</a></td> <td>
-    </td></tr>
+* Time Management: <a href = "/TimeManagementTechniques/tm_TimeBlockingTaskManagement.md">Time Blocking and task management</a> <br><br> <strong>^^Post all before February 21 9am ^^</strong></td> </tr>
 
 
 <tr>
@@ -184,6 +186,8 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
  <strong><u>Process Work</u></strong> <br>
 * [Iterative Object Project](IterativeObjectProject) Week 4
 * Time Management: <a href = "/TimeManagementTechniques/tm_kanBan.md">KanBan Technique</a>
+
+<strong>^^Post all before February 28 9am ^^</strong>
 
     </td></tr>
 
@@ -215,7 +219,8 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 
 	_You are not selecting a final topic yet_.
 
-* Time Management: <b>this is a 2 week study</b><br><br><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Capture & Note time usage in 20 minute increments</a>
+* Time Management: <b>this is a 2 week study</b><br><br><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Capture & Note time usage in 20 minute increments</a><br> <br>
+<strong>^^Post all before March 7 9am ^^</strong>
   </td></tr> 
 
 
@@ -242,7 +247,8 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Pick 4 of the 11 categories from the game Investing in the Future, to integrate into your world. Identify and articulate them.
 * Start to develop mindmaps or lists for each of these categories.
 * What are you assuming about your topic. [See the Miro board example](https://miro.com/app/board/uXjVLWECVQo=/?share_link_id=191395479074) Use this as a template. Do an extensive investgation of your assumptions. What are the dangers in these assumptions? How are they impacting your research? (post under Future Project)
-* Time Management: <b>this is a 2 week study</b><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Reorganize your time</a>
+* Time Management: <b>this is a 2 week study</b><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Reorganize your time</a><br><br>
+<strong>^^Post all before March 14 9am ^^</strong>
     </td></tr>  
 
 
@@ -283,7 +289,8 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Collect 2 resources regarding some of your  *categories* topic of your Future project & give a short analysis of their use & importance with reference to your project (post under Future Project)
 * Develop your Stakeholders and Moodboard considering your research. What do you notice about the complexity & diversity of your Stakeholders? (post under Future Project)
 * Begin developing your Concept Map for your Future Project. What do you not know at this point with reference to your topic? What research can you do to strengthen your project? (post under Future Project)
-* Time Management: <a href = "/TimeManagementTechniques/tm_Willpower.md">Willpower</a>
+* Time Management: <a href = "/TimeManagementTechniques/tm_Willpower.md">Willpower</a> <br> <br>
+<strong>^^Post all before March 28 9am ^^</strong>
     </td></tr>
 
 
@@ -307,7 +314,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Identify 3 other resources for your project. Discuss how they will help your project.
 * Post your Ethics exercise work. How does this impact your perspective of the Future Project? How does this inform new possibilities and new things to research?
 * <a href = "/assignmentBriefs/Artifact_Tool.md"> Future Artifact </a>
-* Time Management: <b> This is a two week study<br><br></b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Observe your energy throughout several days. Document.</a>
+* Time Management: <b> This is a two week study<br><br></b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Observe your energy throughout several days. Document.</a> <br> <br> <strong>^^Post all before April 4th 9am ^^</strong>
     </td></tr>
 
 
@@ -331,7 +338,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Futher develop your Concept Map, Stakeholders, Moodboard and Timeline. How is your project developing? What areas need to be addressed? What pivots and changes are happening? 
 * Draft 2 personas
 * <a href = "/assignmentBriefs/Artifact_Tool.md"> Future Artifact </a>
-* Time Management: <b> This is a two week study</b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Reorder your tasks appropriate to your energy mapping</a>
+* Time Management: <b> This is a two week study</b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Reorder your tasks appropriate to your energy mapping</a><br> <br> <strong>^^Post all before April 11th 9am ^^</strong>
     </td></tr>
 
 <tr>
@@ -352,7 +359,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Mindmap an artifact from this world and use the Crazy Eights exercise to explore possibilities to prototype.
 * Begin drafting a storyboard. This is to be a story that takes place in your world. It is not a rationale for your world, nor how your world came into being.
 * <a href = "/assignmentBriefs/Artifact_Tool.md"> Future Artifact </a>
-* Time Management: Hybrid! Design your own with what's worked. Tell us about it. 
+* Time Management: Hybrid! Design your own with what's worked. Tell us about it. <br> <br> <strong>^^Post all before April 18th 9am ^^</strong>
     </td></tr>
 
 
@@ -372,6 +379,8 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Iterate your personas to high fidelity
 * <a href = "/assignmentBriefs/Artifact_Tool.md"> Future Artifact </a>
 * Future Presentation Brainstorm
+
+<br> <br> <strong>^^Post all before April 25th 9am ^^</strong>
     </td></tr> 
 
 
@@ -387,6 +396,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 <strong><u>Process Work</u></strong> <br>
 * Research & Develop your Future Presentation Brainstorm
 * Finalize your Storyboard
+<br> <br> <strong>^^Post all before May 2nd 9am ^^</strong>
     </td></tr>
 
 <tr>
@@ -397,12 +407,13 @@ Future Presentations & Artifacts</td> <td>
 
 <strong><u>Process Work</u></strong> <br>
 * Iterate your presentation and develop what is needed. 
+<br> <br> <strong>^^Post all before May 9th 9am ^^</strong>
     </td></tr>
 
 <tr>
     <td valign="top">wk 15: May 6th & 11th <p> </p> </td>
     <td valign="top"> 
-Post all remaining work and autopsy's by May 8th noon to your sites </td> <td>
+Post all remaining work and autopsy's by May 9th noon to your sites </td> <td>
 
 **HAVE A GREAT SUMMER**
     </td></tr>      
