@@ -41,7 +41,7 @@ In-class exercises focused on expanding idea space
 
 <a href = "processWebsite.md">Process Site</a> setup (completed together in class; Post your URL to Slack int the channel #studentsites)
 
-Introduction to <a href = "constant_input_output.md">Constant Input / Constant Output (C I/O) </a> as an ongoing, multi-week project
+
 </td>
     <td valign="top">
 <strong><u>Setup & Orientation</u></strong>
@@ -56,7 +56,7 @@ Introduction to <a href = "constant_input_output.md">Constant Input / Constant O
 
 <strong>Reading & Reflection</strong>
 
-* <a href ="<a href = "https://alistapart.com/article/sketching-the-visual-thinking-power-tool">Rohde, Sketching: the Visual Thinking Power Tool</a>
+* <a href ="<a href = https://alistapart.com/article/sketching-the-visual-thinking-power-tool">Rohde, Sketching: the Visual Thinking Power Tool</a>
 
 * <a href = "https://alistapart.com/article/the-miseducation-of-the-doodle">Brown, The Miseducation of the Doodle </a>
 
@@ -64,7 +64,7 @@ Introduction to <a href = "constant_input_output.md">Constant Input / Constant O
 
 <strong>Process Work</strong>
 
-* Create a dense, exploratory <a href = "<a href = "assignmentBriefs/mindMaps.md">mind map </a> regarding yourself, interests and background. This should demonstrate range, curiosity, and associative thinking. Ideally do this on a white board or digital surface or using Miro.
+* Create a dense, exploratory <a href = "assignmentBriefs/mindMaps.md">mind map </a> regarding yourself, interests and background. This should demonstrate range, curiosity, and associative thinking. Ideally do this on a white board or digital surface or using Miro.
 
 * Write a reflection exploring:
 
@@ -77,7 +77,7 @@ Introduction to <a href = "constant_input_output.md">Constant Input / Constant O
 </td></tr>
 
 <tr>
-    <td valign="top">wk 2: Jan 28 & February 2 <br> <br> Add/Drop Dealine: Feb 2 <br><br><b> >Week 2 is about movement. Your work should visibly change from Week 1.<b> </td>
+    <td valign="top">wk 2: Jan 28 & February 2 <br> <br> Add/Drop Dealine: Feb 2 <br> </td>
     <td valign="top"> 
 
 * Group discussion: mind maps 
@@ -95,7 +95,7 @@ Introduction to <a href = "constant_input_output.md">Constant Input / Constant O
 
 	* Post a reflection responding to themes or advice that feels relevant to where you are now
 
-* Continue reading Show Your Work
+* Start Reading "Don't Read This Book" - Chapters 1 - 3
 
 * Write a short analysis on The Creative Brain, focusing on ideas that shifted your understanding of creativity <br>
 
@@ -104,11 +104,13 @@ Introduction to <a href = "constant_input_output.md">Constant Input / Constant O
 
 * Post documentation of your process and outcomes
 
+* Time Management: Introduction to <a href = "/TimeManagementTechniques/tm_actionableTask.md">actionable tasks </a> and task management
+
     </td></tr>
 
 
 <tr>
-    <td valign="top">wk 3: February 4th & 9th <br><br><b> >This week marks the transition from exploration to intentional direction. As well, you are introduced to intentional choice. You are expected to begin narrowing focus—without locking in conclusions. </b></td>
+    <td valign="top">wk 3: February 4th & 9th <br><br></td>
     <td valign="top">
 * Tool for creativity: Yes, And (imagination, attitude, openness)
 
@@ -120,23 +122,21 @@ Introduction to <a href = "constant_input_output.md">Constant Input / Constant O
 
 * Cabinets of curiosity
 
-* Reading introduction: Questlove on Collecting
-
 * Observations from Iterative Object Process
 
-* Time Management: Introduction to <a href = "tm_actionableTask.md">actionable tasks </a> and task management </td> <td>
+* Time Management: <a href = "/TimeManagementTechniques/tm_TimeBlockingTaskManagement.md">Time Blocking & Task Management </a>  </td> <td>
 <strong><u>Reading & Analysis</u></strong><br>
-* <a href ="https://www.nytimes.com/2022/03/25/opinion/questlove-inspiration-collection.html" >Questlove, Thoughts on Collecting (NYT).</a> Be prepared to discuss. <br><br>
+* Finish Reading "Don't Read This Book" - Chapters 1 - 3
 
 <strong><u>Process Work</u></strong> <br>
 
 * [Iterative Object Project](IterativeObjectProject) Week 2
 
-* Yes And  analysis:
+* Yes And analysis:
 Write about a personal Yes, And experience. What shifted? What surprised you?
 
+* Time Management: <a href = "/TimeManagementTechniques/tm_TimeBlockingTaskManagement.md">Time Blocking & Task Management post an anaylsis of your useage of this for the next post date</a>
 
-* Implement the Actionable Tasks time management system and analyze on how it affected your workflow. Post under "time management"
     </td></tr> 
 
 
@@ -146,13 +146,18 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 
 * Observations from Iterative Object Process
 
+* Discussion Don't Read This Book Ch 1-3
+
+* Time Management: <a href = "/TimeManagementTechniques/tm_TimeBlockingTaskManagement.md">Time Blocking and task management</a>
+
  </td> <td>
 
 <strong><u>Reading & Analysis</u></strong><br>
-* stuff <br><br>
+* Start reading Don't Read This Book - Ch 4: Work: Create a Routine <br><br>
 
 <strong><u>Process Work</u></strong> <br>
 * [Iterative Object Project](IterativeObjectProject) Week 3
+* Time Management: <a href = "/TimeManagementTechniques/tm_TimeBlockingTaskManagement.md">Time Blocking and task management</a></td> <td>
     </td></tr>
 
 
@@ -163,13 +168,21 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Observations from Iterative Object Process
 * Future Project Launch
 * Spectulative Design
-* Investing In The Futures Class Exercise</td> <td>
+* Investing In The Futures Class Exercise
+* Time Management: <a href = "/TimeManagementTechniques/tm_kanBan.md">KanBan Technique</a>
+
+</td> <td>
 
  <strong><u>Reading & Analysis</u></strong><br><br>
+
+ * Finish reading Don't Read This Book - Ch 4: Work: Create a Routine
+
 * Read Speculative Everything (see Slack for the link) Chapter 1. This chapter will situate the Future Project, giving it context, as you are developing a speculative future. Do not skip it. How does this change your idea of making as well as your ideas of design? <br>
 
  <strong><u>Process Work</u></strong> <br>
 * [Iterative Object Project](IterativeObjectProject) Week 4
+* Time Management: <a href = "/TimeManagementTechniques/tm_kanBan.md">KanBan Technique</a>
+
     </td></tr>
 
 <tr>
@@ -178,17 +191,19 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 
 * Observations from Iterative Object Process 
 * Investing In The Futures Class Exercise 
+* Time Management: <b>this is a 2 week study</b><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Capture & Note time usage in 20 minute increments</a>
 </td> <td>
 
 <strong><u>Reading & Analyze</u></strong><br>
 * Feedback for two of your classmates <br><br>
+* Start reading Don't Read This Book - Chapter 5: Projects: Leave Out Extras
 
 <strong><u>Process Work</u></strong> <br>
 * [Iterative Object Project](IterativeObjectProject) Week 5
 
 * Mind Map Topics to explore in your Future Project. (post under "Future")
 
-* Then, get more specific about them. Do some web research in contemporary media - **venerable** news sites, websites, etc. (post under "Future") 
+* Then, get more specific about them. Do some web research in contemporary media - **venerable** news sites, websites [(see approved list)](NewsSites.md) etc. (post under "Future") 
 
 * Include a short analysis articulating:
 
@@ -197,6 +212,8 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 		* What questions remain unresolved
 
 	_You are not selecting a final topic yet_.
+
+* Time Management: <b>this is a 2 week study</b><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Capture & Note time usage in 20 minute increments</a>
   </td></tr> 
 
 
@@ -208,19 +225,22 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Observations of Future Project Topics
 * Assumptions
 * Introduction: Moodboard & Stakeholders
-* Time in Class : Categories & mindmaps </td> 
+* Time in Class : Categories & mindmaps 
+* Time Management: <b>this is a 2 week study</b><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Reorganize your time</a></td> 
 
 <td>
  <strong><u>Reading & Analyze</u></strong><br>
 
 * feedback for two of your classmates <br><br>
+* Finish Don't Read This Book - Chapter 5: Projects: Leave Out Extras
 
 <strong><u>Process Work</u></strong> <br>
 * Begin devloping a moodboard that helps to decribe your Future World
 * Begin to Identify Stakeholders within your topic with reference to this world
-* Pick 4 of the 11 categories from the game Investing in the Future, to integrate into your world
+* Pick 4 of the 11 categories from the game Investing in the Future, to integrate into your world. Identify and articulate them.
 * Start to develop mindmaps or lists for each of these categories.
 * What are you assuming about your topic. [See the Miro board example](https://miro.com/app/board/uXjVLWECVQo=/?share_link_id=191395479074) Use this as a template. Do an extensive investgation of your assumptions. What are the dangers in these assumptions? How are they impacting your research? (post under Future Project)
+* Time Management: <b>this is a 2 week study</b><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Reorganize your time</a>
     </td></tr>  
 
 
@@ -248,17 +268,20 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * [The 5 Why's & using it to help deepen your understanding and research](https://miro.com/app/board/uXjVLk2bckY=/?share_link_id=177816181183)
 
 * Concept Maps & Inclass Exercise
+* Time Management: <a href = "/TimeManagementTechniques/tm_WillPower.md">Willpower</a>
 
 </td> <td>
 
 <strong><u>Reading & Analyze</u></strong><br>
 * Feedback for two of your classmates <br><br>
+* Read Show Your Work! Ch. 1-3
 
 <strong><u>Process Work</u></strong> <br>
 * Collect 2 resources regarding your *main*topic of your Future project & give a short analysis of their use & importance with reference to your project (post under Future Project)
 * Collect 2 resources regarding some of your  *categories* topic of your Future project & give a short analysis of their use & importance with reference to your project (post under Future Project)
 * Develop your Stakeholders and Moodboard considering your research. What do you notice about the complexity & diversity of your Stakeholders? (post under Future Project)
 * Begin developing your Concept Map for your Future Project. What do you not know at this point with reference to your topic? What research can you do to strengthen your project? (post under Future Project)
+* Time Management: <a href = "/TimeManagementTechniques/tm_WillPower.md">Willpower</a>
     </td></tr>
 
 
@@ -268,16 +291,21 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 
 * Timelines
 * Sticky Steps 
-* Ethics Exercises </td> <td>
+* Ethics Exercises 
+* <a href = "/assignmentBriefs/Artifact_Tool.md"> Future Artifact </a>
+* Time Management: <b> This is a two week study</b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Observe your energy throughout several days. Document.</a></td> <td>
 
 <strong><u>Reading & Analyze</u></strong><br>
 * Feedback for 2 of your classmates <br><br>
+* Read Show Your Work! Ch. 1-3
 
 <strong><u>Process Work</u></strong> <br>
 * Begin to develop a timeline for your Future Project. What areas might you need to look into further? What are you realizing with reference to time and your topic? (post under Future Project)
 * Pick 2 UMD exercises and design how you will do 1 of them. Go beyond your comfort zone and do not choose a technique already discussed in the course. How will they strengthen or change your project?
 * Identify 3 other resources for your project. Discuss how they will help your project.
 * Post your Ethics exercise work. How does this impact your perspective of the Future Project? How does this inform new possibilities and new things to research?
+* <a href = "/assignmentBriefs/Artifact_Tool.md"> Future Artifact </a>
+* Time Management: <b> This is a two week study</b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Observe your energy throughout several days. Document.</a>
     </td></tr>
 
 
@@ -288,16 +316,20 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Personas 
 * Artifact
 * Thing From The Future
-* Storyboards </td> <td>
+* Storyboards 
+* Time Management: <b> This is a two week study</b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Reorder your tasks appropriate to your energy mapping</a></td> <td>
 
 <strong><u>Reading & Analyze</u></strong><br>
 * Give feedback to 2 of your classmates <br><br>
+* Read Show Your Work! - Ch 4-8
 
 <strong><u>Process Work</u></strong> <br>
 * Execute 1 of your UMD's. Post a Design Autopsy. What would you revise? What did you learn?
 * Design 2nd of your UMD choices. What else do you need to prepare for this?
 * Futher develop your Concept Map, Stakeholders, Moodboard and Timeline. How is your project developing? What areas need to be addressed? What pivots and changes are happening? 
 * Draft 2 personas
+* <a href = "/assignmentBriefs/Artifact_Tool.md"> Future Artifact </a>
+* Time Management: <b> This is a two week study</b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Reorder your tasks appropriate to your energy mapping</a>
     </td></tr>
 
 <tr>
@@ -305,16 +337,20 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
     <td valign="top">
 
 * Storyboards
-* Future Presentations launch  </td> <td>
+* Future Presentations launch 
+* Time Management: Hybrid! Design your own with what's worked. Tell us about it. </td> <td>
 
 <strong><u>Reading & Analyze</u></strong><br>
 * Feedback for two of your classmates <br><br>
+* Read Show Your Work! - Ch 4-8
 
 <strong><u>Process Work</u></strong> <br>
 * Execute 2nd UMD. What was learned? What should you revise?
 * Develop and Iterate your Personas
 * Mindmap an artifact from this world and use the Crazy Eights exercise to explore possibilities to prototype.
 * Begin drafting a storyboard. This is to be a story that takes place in your world. It is not a rationale for your world, nor how your world came into being.
+* <a href = "/assignmentBriefs/Artifact_Tool.md"> Future Artifact </a>
+* Time Management: Hybrid! Design your own with what's worked. Tell us about it. 
     </td></tr>
 
 
@@ -327,10 +363,12 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 </td> <td>
 <strong><u>Reading & Analyze</u></strong><br>
 * feedback for two of your classmates <br><br>
+* Read Show Your Work! - Ch 9-end of book
 
 <strong><u>Process Work</u></strong> <br>
 * Develop your storyboards further
 * Iterate your personas to high fidelity
+* <a href = "/assignmentBriefs/Artifact_Tool.md"> Future Artifact </a>
 * Future Presentation Brainstorm
     </td></tr> 
 
@@ -342,7 +380,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Inclass Feedback sessions </td> <td>
 
 <strong><u>Reading & Analyze</u></strong><br>
-* stuff <br><br>
+* Read Show Your Work! - Ch 9-end of book <br><br>
 
 <strong><u>Process Work</u></strong> <br>
 * Research & Develop your Future Presentation Brainstorm
@@ -352,7 +390,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 <tr>
     <td valign="top">wk 14: April 29th & May 4th<p> </p> </td>
     <td valign="top"> 
-Future Presentations </td> <td>
+Future Presentations & Artifacts</td> <td>
 
 
 <strong><u>Process Work</u></strong> <br>

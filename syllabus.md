@@ -197,6 +197,7 @@ What matters is honest effort, engagement, and growth.
 This course rewards process, experimentation, and transformation. Avoid playing it safe. Avoid perfectionism. Avoid rushing to answers.
 
 Show up. Try things. Get it wrong. Take risks. Learn from it.
+
 And yes—have fun.
 
 [Back To The Top](#Syllabus-Short-Cuts)
@@ -289,12 +290,11 @@ Please also see [Grade Integrity Policy](Grade_Integrity_Policy.md)
 
 ##### Quantitative Grading Breakdown
 
-*   5% Class participation: discussion and feedback of your peers, cognitive presence in class, discussion of your work and challenges, your activity within the class community inside and outside of class
+*   10% Class participation: discussion and feedback of your peers, cognitive presence in class, discussion of your work and challenges, your activity within the class community inside and outside of class
 *   5% [Self Assessments](self_assessments.md) (2.5% each)
 *   25%  [The Iterative Object Project](designProblem.md)
 *   20% [Process Website](process_website.md), including all written reflections for ALL posts, including time Management, Class exercises, Article reflections
-*   5% [Future Project: News Research & Reflections]
-*   10%  [Future Artifact]
+*   10%  [Future Artifact]("/assignmentBriefs/Artifact_Tool.md")
 *   20% [Future Project Development](Future.md) 
 *   10% Project Final Presentation + Process
 
@@ -476,6 +476,7 @@ Faculty can provide course accommodations/modifications only after receipt of an
 
 * [IDEO’s Human-centered Design Toolkit](http://www.designkit.org/resources/1) (available free online)
 * [Show Your Work by Austin Kleon](https://www.goodreads.com/book/show/18290401-show-your-work?ref=nav_sb_ss_1_18)
+* [Don't Read This Book by Donald Roos](https://www.goodreads.com/book/show/27150876-don-t-read-this-book)
 * [Creative Quest by Questlove](https://www.goodreads.com/book/show/36260417-creative-quest) (PDF on Slack)
 * [IDEO's Design Kit Methods](https://www.designkit.org/methods)
 * Speculative Everything by Anthony Dunne and Fiona Raby
