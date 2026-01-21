@@ -40,6 +40,7 @@ Prerequisite: None
 [Communication](#Communication)\
 [Course Goals](#Course-Goals)\
 [Course Structure](#Course-Structure)\
+[Design Autopsy/Failure Reports](#Design-Autopsy-Failure-Reports)\
 [Evaluation & Grading](#Evaluation-and-Grading)\
 [Grade Breakdown](#Quantitative-Grading-Breakdown)\
 [Inclusion](#Inclusion)\
@@ -307,7 +308,7 @@ Students are expected to demonstrate continuous improvement through research, it
 
 Depth, risk-taking, and visible evolution are required. Failure to show meaningful development across the semester will result in a below satisfactory grade.
 
-   “I don’t grade where your work ends up—I grade how much it moves, how deeply it develops, and how well you engage with feedback along the way.”
+   >I don’t grade where your work ends up—I grade how much it moves, how deeply it develops, and how well you engage with feedback along the way.
 
 Please also see [Grade Integrity Policy](Grade_Integrity_Policy.md)
 
@@ -315,8 +316,8 @@ Please also see [Grade Integrity Policy](Grade_Integrity_Policy.md)
 
 *   10% Class participation: discussion and feedback of your peers, cognitive presence in class, discussion of your work and challenges, your activity within the class community inside and outside of class
 *   5% [Self Assessments](self_assessments.md) (2.5% each)
-*   25%  [The Iterative Object Project](designProblem.md)
-*   20% [Process Website](process_website.md), including all written reflections for ALL posts, including time Management, Class exercises, Article reflections
+*   25%  [The Iterative Object Project](IterativeObjectProject.md
+*   20% [Process Website](processWebsite.md), including all written reflections for ALL posts, including time Management, Class exercises, Article reflections
 *   10%  [Future Artifact]("/assignmentBriefs/Artifact_Tool.md")
 *   20% [Future Project Development](Future.md) 
 *   10% Project Final Presentation + Process
