@@ -139,8 +139,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Time Management: <a href = "/TimeManagementTechniques/tm_TimeBlockingTaskManagement.md">Time Blocking & Task Management post an anaylsis of your useage of this for the next post date</a>
 
 <strong>^^Post all before February 14 9am ^^</strong>
-
-    </td></tr> 
+</td></tr> 
 
 
 <tr>
@@ -186,8 +185,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Time Management: <a href = "/TimeManagementTechniques/tm_kanBan.md">KanBan Technique</a>
 
 <strong>^^Post all before February 28 9am ^^</strong>
-
-    </td></tr>
+</td></tr>
 
 <tr>
     <td valign="top">wk 6: February 25th & March 2nd<p> </p> </td>
