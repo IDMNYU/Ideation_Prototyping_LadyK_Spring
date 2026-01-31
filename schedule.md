@@ -90,7 +90,6 @@ In-class exercises focused on expanding idea space
 
 * Iterative Object Launch & InClass exercise
 
-* Overview of recommended tools and resources </td> <td>Continue developing work from Week 1. New work should build on—not replace—previous thinking.<br><br>
 
  <strong><u>Reading & Reflection</u></strong><br>
 * Read letters to the next cohort (Slack resources)
@@ -104,6 +103,8 @@ In-class exercises focused on expanding idea space
  <strong><u>Process Work</u></strong> <br>
 * <a href = "/IterativeObjectProject.md">Iterative Object Project </a> Week 1
 
+* Post under Iterative object: Which topic you choose and walk us through your sketch & thoughts (as well the following):
+
 * Post documentation of your process and outcomes
 
 * Time Management: Introduction to <a href = "/TimeManagementTechniques/tm_actionableTask.md">actionable tasks </a> and task management <br><br>
@@ -113,6 +114,7 @@ In-class exercises focused on expanding idea space
 <tr>
     <td valign="top">wk 3: February 4th & 9th <br><br></td>
     <td valign="top">
+        
 * Tool for creativity: Yes, And (imagination, attitude, openness)
 
 * Discussion:
