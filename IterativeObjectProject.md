@@ -28,7 +28,7 @@ This project is graded on evidence of thinking. *NOT* correctness. Students will
 * [The Useless-but-Revealing Object](/assignmentBriefs/IterativeObject_Details.md/#The-Useless-but-Revealing-Object)
 	* Purpose: Break optimization instince + introduce "why does this exist?"
 * [The Emotionl Machine](assignmentBriefs/IterativeObject_Details.md/#The-Emotional-Machine)
-	* Purpose: Shift from technical function to experential impact
+	* Purpose: Shift from technical function to experiential impact
 * [The Object That Trains You](assignmentBriefs/IterativeObject_Details.md/#The-Object-That-Trains-You)
 	* Purpose: Introduce behavior-shaping systems
 
