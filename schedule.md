@@ -102,7 +102,7 @@ In-class exercises focused on expanding idea space
 * Write a short analysis on The Creative Brain, focusing on ideas that shifted your understanding of creativity <br>
 
  <strong><u>Process Work</u></strong> <br>
-* [Iterative Object Project](IterativeObjectProject) Week 1
+* <a href = "/IterativeObjectProject.md">Iterative Object Project </a> Week 1
 
 * Post documentation of your process and outcomes
 
