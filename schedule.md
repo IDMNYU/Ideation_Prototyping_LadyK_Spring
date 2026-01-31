@@ -90,6 +90,8 @@ In-class exercises focused on expanding idea space
 
 * Iterative Object Launch & InClass exercise
 
+</td>
+    <td valign="top">
 
  <strong><u>Reading & Reflection</u></strong><br>
 * Read letters to the next cohort (Slack resources)
