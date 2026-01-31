@@ -107,9 +107,7 @@ In-class exercises focused on expanding idea space
 * Post documentation of your process and outcomes
 
 * Time Management: Introduction to <a href = "/TimeManagementTechniques/tm_actionableTask.md">actionable tasks </a> and task management <br><br>
-<strong>^^Post all before February 7 9am ^^</strong>
-
-    </td></tr>
+<strong>^^Post all before February 7 9am ^^</strong></td></tr>
 
 
 <tr>

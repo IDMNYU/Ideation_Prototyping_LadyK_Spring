@@ -23,7 +23,7 @@ This project is graded on evidence of thinking. *NOT* correctness. Students will
 * Final object may be incomplete or non-functional
 * Documentation & Design Autopsy of each stage is required and heavily graded
 
-#### Choose on of these prompts to use over the next several weeks:
+#### Choose one of these prompts to use over the next several weeks:
 
 * [The Useless-but-Revealing Object](/assignmentBriefs/IterativeObject_Details.md/#The-Useless-but-Revealing-Object)
 	* Purpose: Break optimization instince + introduce "why does this exist?"
