@@ -3,11 +3,15 @@
 Project brief topics for [Iterative Object Project](../IterativeObjectProject.md)
 
 #### The Useless-but-Revealing Object
-* Purpose: Break optimization instince + introduce "why does this exist?"
+* Purpose: Break optimization instinct + introduce **"why does this exist?"**
 * Prompt: Design and Prototype an object that:
 	* Solves a non-problem
 	* Or makes an existing problem _slightly_ worse
 	* Or reveals a hidden behavior or habit
+* Keep in mind: 
+	* Useless is not defined as being completely count to the object's goal. Example: a flat drinking cup, a writing surface made of water, etc. The examples below don't negate it's prime use. Instead they challenge it.
+	* To be useless it use must be tried
+	* What does the object REVEAL? Negating the prime goal does not count.
 * Examples:
 	* a mug that forces you to drink slower
 	* a backpack that subtly rearranges its contents
@@ -19,7 +23,7 @@ Project brief topics for [Iterative Object Project](../IterativeObjectProject.md
 	* Must be rebuildable in under 30 minutes
 
 #### The Emotional Machine
-* Purpose: Shift from Technical Function to experiential function. Observe how people _misuse_ or _misinterpret it_
+* Purpose: Shift from Technical Function to experiential function. **Observe how people _misuse_ or _misinterpret it_**
 * Prompt: Create a physical object that:
 	* Produces or responds to an emotion
 	* Has no screen

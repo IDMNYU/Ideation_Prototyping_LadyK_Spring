@@ -1,4 +1,4 @@
-### DM-UY 1143  Ideation and Prototyping
+ ### DM-UY 1143  Ideation and Prototyping
 
 # Iterative Object Project
 
@@ -12,7 +12,7 @@ This project is graded on evidence of thinking. *NOT* correctness. Students will
 
 #### Requirements
 
-* The object must not work
+* The object must not work, with reference to _it's prescribed ultimate goal._
 * It must change at least once after the first build
 * Documentation of your process is more important than the final form
 
@@ -50,6 +50,7 @@ This project is graded on evidence of thinking. *NOT* correctness. Students will
 	* Test Prototype v1 with at lease 2 users
 	* Document misue, confusion, and unintended behaviors
 	* Build Prototype v2 that responds to failure
+	* Research & Identify similar objects on the market. Post links and analysize differences
 * Design Autopsy:
 	* What did users do "wrong"?
 	* What did you not change, and why?
