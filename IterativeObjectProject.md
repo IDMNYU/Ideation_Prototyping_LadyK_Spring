@@ -22,6 +22,7 @@ This project is graded on evidence of thinking. *NOT* correctness. Students will
 * Must go through at least 3 materially different versions
 * Final object may be incomplete or non-functional
 * Documentation & Design Autopsy of each stage is required and heavily graded
+* Design Autopsy must explore: One decision made, One assumption challenged, One change since last week
 
 #### Choose one of these prompts to use over the next several weeks:
 
@@ -72,11 +73,17 @@ This project is graded on evidence of thinking. *NOT* correctness. Students will
 ##### Week 4 - Reframing the Object
 * Goal: Transition from object to system
 * Assignment:
+
 	Reframe the object:
+
 		* is it training someone?
+
 		* is it enforcing value?
+
 		* is it revealing a system?
-	Build Prototype v4 OR deliberately stop iterating and justify why?
+
+	Build Prototype v4 OR deliberately stop iterating and justify why
+
 #### Week 5 - Process Review (Not a Final)
 * Deliverables:
 	* Physical prototype (any version)

@@ -135,10 +135,10 @@ In-class exercises focused on expanding idea space
 
 <strong><u>Process Work</u></strong> <br>
 
-* <a href = "/IterativeObjectProject.md"> Iterative Object Project Week 2</a>
+* <a href = "/IterativeObjectProject.md"> Re do: Iterative Object Project Week 1</a>
 
 * Yes And analysis:
-Write about a personal Yes, And experience. What shifted? What surprised you?
+Write about a personal Yes, And experience. What shifted? What surprised you? I am looking for the effort attempted and the substance of your analysis
 
 * Time Management: <a href = "/TimeManagementTechniques/tm_TimeBlockingTaskManagement.md">Time Blocking & Task Management post an anaylsis of your useage of this for the next post date</a>
 
@@ -162,7 +162,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Start reading Don't Read This Book - Ch 4: Work: Create a Routine <br><br>
 
 <strong><u>Process Work</u></strong> <br>
-<a href = "/IterativeObjectProject.md"> Iterative Object Project Week 3</a>
+<a href = "/IterativeObjectProject.md"> Iterative Object Project Week 2</a>
 * Time Management: <a href = "/TimeManagementTechniques/tm_TimeBlockingTaskManagement.md">Time Blocking and task management</a> <br><br> <strong>^^Post all before February 21 9am ^^</strong></td> </tr>
 
 
@@ -185,7 +185,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Read Speculative Everything (see Slack for the link) Chapter 1. This chapter will situate the Future Project, giving it context, as you are developing a speculative future. Do not skip it. How does this change your idea of making as well as your ideas of design? <br>
 
  <strong><u>Process Work</u></strong> <br>
-<a href = "/IterativeObjectProject.md"> Iterative Object Project Week 4</a>
+<a href = "/IterativeObjectProject.md"> Iterative Object Project Week 3</a>
 * Time Management: <a href = "/TimeManagementTechniques/tm_kanBan.md">KanBan Technique</a>
 
 <strong>^^Post all before February 28 9am ^^</strong>
@@ -205,7 +205,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you?
 * Start reading Don't Read This Book - Chapter 5: Projects: Leave Out Extras
 
 <strong><u>Process Work</u></strong> <br>
-<a href = "/IterativeObjectProject.md"> Iterative Object Project Week 5</a>
+<a href = "/IterativeObjectProject.md"> Iterative Object Project Week 4 & 5</a>
 
 * Mind Map Topics to explore in your Future Project. (post under "Future")
 

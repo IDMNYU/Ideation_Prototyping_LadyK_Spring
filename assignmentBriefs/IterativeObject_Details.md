@@ -21,6 +21,8 @@ Project brief topics for [Iterative Object Project](../IterativeObjectProject.md
 	* Max 3 materials
 	* Must involve at least one physical interaction
 	* Must be rebuildable in under 30 minutes
+* Design Autopsy:Process, One decision made, One assumption challenged, One change since last week
+
 
 #### The Emotional Machine
 * Purpose: Shift from Technical Function to experiential function. **Observe how people _misuse_ or _misinterpret it_**
@@ -38,7 +40,7 @@ Project brief topics for [Iterative Object Project](../IterativeObjectProject.md
 	* An object that rewards waiting
 	* A device that sighs when picked up
 	* A box that resists being opened unless you calm down
-* Design Autopsy Requirement: What emotion did you think you were designing for, and what emotions did user actually feel?
+* Design Autopsy Requirement: What emotion did you think you were designing for, and what emotions did user actually feel? Also Include: Process, One decision made, One assumption challenged, One change since last week
 
 #### The Object That Trains You
 * Purpose: Introduce behavior-shaping systems
@@ -55,5 +57,6 @@ Project brief topics for [Iterative Object Project](../IterativeObjectProject.md
 * Important Twist:
 	* First prototype must not work
 	* Second prototype responds to observed failure
+* Design Autopsy:Process, One decision made, One assumption challenged, One change since last week
 
 
