@@ -6,13 +6,13 @@
 
 This project is graded on evidence of thinking. *NOT* correctness. Students will demonstrate iterative design thinking through multiple physical prototypes informed by reflection and user feedback.
 
-> This object is not expected to succeed. It is expected to change.
+> This object is not expected to ultimately succeed in it's intention. Yet, as the same time, it is excecpted that students work and design towards making the idea plausible and real. It is expected to change throughout this process.
 
 > This project teaches you how to think in objects. The Future Project will ask what kind of world would produce these objects?
 
 #### Requirements
 
-* The object must not work, with reference to _it's prescribed ultimate goal._
+* The object ~~must not work~~ is not to be finished and a fully functioning success, with reference to _it's prescribed ultimate goal._ It must be on that path to the prescribed intention, and it iterated to be refined from it's orginial form.
 * It must change at least once after the first build
 * Documentation of your process is more important than the final form
 
@@ -44,17 +44,23 @@ This project is graded on evidence of thinking. *NOT* correctness. Students will
 	* What assumptions did you make?
 	* What failed immediately?
 	* What surprised you?
+	* How are you going to move forward next week? Given what you've learned, how does this inform your next steps?
 
 ##### Week 2 - Failure as Data
 * Goal: Teach observation and reinterpreation
 * Assignment:
 	* Test Prototype v1 with at lease 2 users
-	* Document misue, confusion, and unintended behaviors
+	* Document misuse, confusion, and unintended behaviors
 	* Build Prototype v2 that responds to failure
 	* Research & Identify similar objects on the market. Post links and analysize differences
 * Design Autopsy:
 	* What did users do "wrong"?
 	* What did you not change, and why?
+	* What did you change, and why?
+	* What assumptions did you have? How are they challenged?
+	* How are you going to move forward next week? Given what you've learned, how does this inform your next steps?
+
+
 
 ##### Week 3 - Constrain Intervention
 * Goal: Force lateral thinking
@@ -66,9 +72,12 @@ This project is graded on evidence of thinking. *NOT* correctness. Students will
 * Assignment
 	* Build Prototype v3
 * Design Autopsy:
-	* Which contraint helped?
-	* Which broke your idea?
+	* What decisions did you make and why?
+	* What assumptions did you have? What are the present ones?
+	* Which contraint helped? How so?
+	* Which broke your idea? Why did it break your idea?
 	* What emerged unexpectedly?
+	* How are you going to move forward next week? Given what you've learned, how does this inform your next steps?
 
 ##### Week 4 - Reframing the Object
 * Goal: Transition from object to system
@@ -83,6 +92,12 @@ This project is graded on evidence of thinking. *NOT* correctness. Students will
 		* is it revealing a system?
 
 	Build Prototype v4 OR deliberately stop iterating and justify why
+
+* Design Autopsy:
+	* How did you reframe the object? Discuss.
+	* What decisions did you make and why?
+	* What assumptions did you have? What are the present ones?
+	* How are you going to move forward next week? Given what you've learned, how does this inform your next steps?
 
 #### Week 5 - Process Review (Not a Final)
 * Deliverables:

@@ -3,14 +3,14 @@
 Project brief topics for [Iterative Object Project](../IterativeObjectProject.md)
 
 #### The Useless-but-Revealing Object
-* Purpose: Break optimization instinct + introduce **"why does this exist?"**
+* Purpose: Break optimization instinct + introduce **"why does this exist?"** **What does it reveal that was unknown before?**
 * Prompt: Design and Prototype an object that:
 	* Solves a non-problem
 	* Or makes an existing problem _slightly_ worse
 	* Or reveals a hidden behavior or habit
 * Keep in mind: 
 	* Useless is not defined as being completely count to the object's goal. Example: a flat drinking cup, a writing surface made of water, etc. The examples below don't negate it's prime use. Instead they challenge it.
-	* To be useless it use must be tried
+	* To be useless, it's use must be tried(!)
 	* What does the object REVEAL? Negating the prime goal does not count.
 * Examples:
 	* a mug that forces you to drink slower
@@ -21,7 +21,9 @@ Project brief topics for [Iterative Object Project](../IterativeObjectProject.md
 	* Max 3 materials
 	* Must involve at least one physical interaction
 	* Must be rebuildable in under 30 minutes
-* Design Autopsy:Process, One decision made, One assumption challenged, One change since last week
+* Design Autopsy:
+	* Process Analysis: What's one decision made? One assumption challenged? One change since last week?
+	* How are your efforts informing your next steps? What are those next steps?
 
 
 #### The Emotional Machine
@@ -40,7 +42,10 @@ Project brief topics for [Iterative Object Project](../IterativeObjectProject.md
 	* An object that rewards waiting
 	* A device that sighs when picked up
 	* A box that resists being opened unless you calm down
-* Design Autopsy Requirement: What emotion did you think you were designing for, and what emotions did user actually feel? Also Include: Process, One decision made, One assumption challenged, One change since last week
+* Design Autopsy Requirement: 
+	* What emotion did you think you were designing for, and what emotions did user actually feel? 
+	* Process Analysis: What's one decision made? One assumption challenged? One change since last week?
+	* How are your efforts informing your next steps? What are those next steps?
 
 #### The Object That Trains You
 * Purpose: Introduce behavior-shaping systems
@@ -55,8 +60,12 @@ Project brief topics for [Iterative Object Project](../IterativeObjectProject.md
 	* Not checking your phone
 	* Leaving on time
 * Important Twist:
-	* First prototype must not work
+	* First prototype may not meet it's intentional goal.
 	* Second prototype responds to observed failure
-* Design Autopsy:Process, One decision made, One assumption challenged, One change since last week
+* Design Autopsy:
+	* How is it to train you? How does feedback communication transpire?
+	* Process Analysis: What's one decision made? One assumption challenged? One change since last week?
+	* How are your efforts informing your next steps? What are those next steps?
+
 
 
