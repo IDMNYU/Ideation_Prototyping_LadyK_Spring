@@ -64,7 +64,7 @@ _________________________________________
 **If you cannot complete the above, you will lose points and not be able to participate in feedback next class.**
 __________________________________________
 
-
+##### Week 2 - Failure as Data (continued)
 * Goal: Teach observation and reinterpreation
 * Assignment:
 	* Test Prototype v1 with at lease 2 users
