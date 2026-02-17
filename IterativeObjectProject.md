@@ -6,7 +6,7 @@
 
 This project is graded on evidence of thinking. *NOT* correctness. Students will demonstrate iterative design thinking through multiple physical prototypes informed by reflection and user feedback.
 
-> This object is not expected to ultimately succeed in it's intention. Yet, as the same time, it is excecpted that students work and design towards making the idea plausible and real. It is expected to change throughout this process.
+> Your object must genuinely try to succeed at its intention. It is allowed to fail in reality when tested. It is excecpted that students work and design towards making the idea plausible and real. It is expected to change throughout this process.
 
 > This project teaches you how to think in objects. The Future Project will ask what kind of world would produce these objects?
 
@@ -47,11 +47,28 @@ This project is graded on evidence of thinking. *NOT* correctness. Students will
 	* How are you going to move forward next week? Given what you've learned, how does this inform your next steps?
 
 ##### Week 2 - Failure as Data
+**Before moving forward, you must post the results of the 48-hour Minimim Viable Solution:**
+
+1. One sentence intention using this template:
+
+"This object is intended to _________ for ________ in __________ context"
+
+2. Two photos or a 10 second video: Whatever is existing at this stage.
+
+3. Answer the following:
+	* What you built?
+	* What confuses you?
+	* What you are focused on changing for the next iteration?
+**If you cannot complete the above, you will lose points and not be able to participate in feedback next class.**
+
+
+
 * Goal: Teach observation and reinterpreation
 * Assignment:
 	* Test Prototype v1 with at lease 2 users
 	* Document misuse, confusion, and unintended behaviors
-	* Build Prototype v2 that responds to failure
+	* Post 2 annotated sketches of your next build (See below) before the build.
+	* Build Prototype v2 that responds to failure. Also, New Constraint: Keep the same object category, but redesign it so __it has a plausible path to success for at least 60 seconds.__
 	* Research & Identify similar objects on the market. Post links and analysize differences
 * Design Autopsy:
 	* What did users do "wrong"?
@@ -64,6 +81,7 @@ This project is graded on evidence of thinking. *NOT* correctness. Students will
 
 ##### Week 3 - Constrain Intervention
 * Goal: Force lateral thinking
+* Research: Look into the context of the situation your object is used. Find 2 sources: one that counter your assumptions; the other refines & deepens your understanding. Post about them. Analyze what you've gained.
 * Pick 2 of the following constrains:
 	* Remove a key material
 	* Reduce size by 50%
@@ -106,6 +124,8 @@ This project is graded on evidence of thinking. *NOT* correctness. Students will
 	* Final Design Autopsy: What did this object teach me about my thinking process?
 
 # Failure-Forward Grading Rubric
+
+**Late posts loose 2 points a day, but can still be submitted**
 
 Total: 100 points
 
