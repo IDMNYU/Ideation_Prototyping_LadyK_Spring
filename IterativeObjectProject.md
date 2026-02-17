@@ -47,6 +47,8 @@ This project is graded on evidence of thinking. *NOT* correctness. Students will
 	* How are you going to move forward next week? Given what you've learned, how does this inform your next steps?
 
 ##### Week 2 - Failure as Data
+
+_________________________________________
 **Before moving forward, you must post the results of the 48-hour Minimim Viable Solution:**
 
 1. One sentence intention using this template:
@@ -60,7 +62,7 @@ This project is graded on evidence of thinking. *NOT* correctness. Students will
 	* What confuses you?
 	* What you are focused on changing for the next iteration?
 **If you cannot complete the above, you will lose points and not be able to participate in feedback next class.**
-
+__________________________________________
 
 
 * Goal: Teach observation and reinterpreation
