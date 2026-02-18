@@ -58,9 +58,10 @@ _________________________________________
 2. Two photos or a 10 second video: Whatever is existing at this stage.
 
 3. Answer the following:
-	* What you built?
-	* What confuses you?
-	* What you are focused on changing for the next iteration?
+	* What you built
+	* What isn’t working; what are you realizing?
+	* What will you address next?
+	* What is your success metric? (Define it!)
 **If you cannot complete the above, you will lose points and not be able to participate in feedback next class.**
 __________________________________________
 
@@ -85,10 +86,16 @@ __________________________________________
 * Goal: Force lateral thinking
 * Research: Look into the context of the situation your object is used. Find 2 sources: one that counter your assumptions; the other refines & deepens your understanding. Post about them. Analyze what you've gained.
 * Pick 2 of the following constrains:
-	* Remove a key material
-	* Reduce size by 50%
+	* Remove a key material & swap it for another
+	* ~Reduce~ Double size by 50%
 	* Make it operable with one hand
-	* Remove it's "main" feature
+	* Must be usable while walking
+	* Must work without being touched directly
+	* It must monitor behavior
+	* It must create mild discomfort
+
+"Constraints aren’t punishments — they’re tools that force your brain out of its first solution.”
+
 * Assignment
 	* Build Prototype v3
 * Design Autopsy:
