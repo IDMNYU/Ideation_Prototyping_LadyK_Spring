@@ -211,7 +211,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you? I 
 
 * post a short reflection on what you took from the Investing the Futures game, with reference to Speculative Design and The Future project. What questions do you have? What connections are you making? How is this shaping your approach to The Future Project?
 
-* Mind Map Topics to explore in your Future Project. (post under "Future"). Post all maps! Get specific! _You are not selecting a final topic yet_.
+* Mind Map Topics to explore in your <a href = "Future.md">Future Project. (post under "Future"). </a> Post all maps! Get specific! _You are not selecting a final topic yet_.
 
 * <strike> Then, get more specific about them. Do some web research in contemporary media - **venerable** news sites, websites [(see approved list)](NewsSites.md) etc. (post under "Future") 
 
