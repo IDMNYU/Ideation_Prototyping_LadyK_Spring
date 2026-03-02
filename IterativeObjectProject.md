@@ -20,7 +20,7 @@ This project is graded on evidence of thinking. *NOT* correctness. Students will
 * Must be physical
 * Must be hand-built (no outsourcing, no final polish expectations)
 * Must go through at least 3 materially different versions
-* Final object may be incomplete or non-functional
+* Final object MAY be incomplete or non-functional
 * Documentation & Design Autopsy of each stage is required and heavily graded
 * Design Autopsy must explore: One decision made, One assumption challenged, One change since last week
 
@@ -83,6 +83,9 @@ __________________________________________
 
 
 ##### Week 3 - Constrain Intervention
+
+"Constraints aren’t punishments — they’re tools that force your brain out of its first solution.”
+
 * Goal: Force lateral thinking
 * Research: Look into the context of the situation your object is used. Find 2 sources: one that counter your assumptions; the other refines & deepens your understanding. Post about them. Analyze what you've gained.
 * Pick 2 of the following constrains:
@@ -93,8 +96,6 @@ __________________________________________
 	* Must work without being touched directly
 	* It must monitor behavior
 	* It must create mild discomfort
-
-"Constraints aren’t punishments — they’re tools that force your brain out of its first solution.”
 
 * Assignment
 	* Build Prototype v3
@@ -127,8 +128,9 @@ __________________________________________
 	* How are you going to move forward next week? Given what you've learned, how does this inform your next steps?
 
 #### Week 5 - Process Review (Not a Final)
+* Review <a href = "assignmentBriefs/IterativeObject_Details.md"> this brief/document and the assignment brief to ensure you are on the same page as the topic. Re-read it thoroughly </a>
 * Deliverables:
-	* Physical prototype (any version)
+	* Physical prototype (latest version)
 	* Process Documentation (photos, sketches, notes)
 	* Final Design Autopsy: What did this object teach me about my thinking process?
 

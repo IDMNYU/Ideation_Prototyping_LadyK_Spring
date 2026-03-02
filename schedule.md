@@ -197,19 +197,23 @@ Write about a personal Yes, And experience. What shifted? What surprised you? I 
 
 * Observations from Iterative Object Process 
 * Investing In The Futures Class Exercise 
-* Time Management: <b>this is a 2 week study</b><br><br><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Capture & Note time usage in 20 minute increments</a>
+* <strike> Time Management: <b>this is a 2 week study</b><br><br><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Capture & Note time usage in 20 minute increments</a> </strike>
 </td> <td>
 
 <strong><u>Reading & Analyze</u></strong><br>
-* Feedback for two of your classmates <br><br>
+* <strike> Feedback for two of your classmates </strike> <br><br>
 * Start reading Don't Read This Book - Chapter 5: Projects: Leave Out Extras
 
 <strong><u>Process Work</u></strong> <br>
 <a href = "/IterativeObjectProject.md"> Iterative Object Project Week 4 & 5</a>
 
-* Mind Map Topics to explore in your Future Project. (post under "Future")
+* post the outcome of the exercises from class on Feb 2 - Flyer for your object, plus exercises. How did this impact your perspective
 
-* Then, get more specific about them. Do some web research in contemporary media - **venerable** news sites, websites [(see approved list)](NewsSites.md) etc. (post under "Future") 
+* post a short reflection on what you took from the Investing the Futures game, with reference to Speculative Design and The Future project. What questions do you have? What connections are you making? How is this shaping your approach to The Future Project?
+
+* Mind Map Topics to explore in your Future Project. (post under "Future"). Post all maps! Get specific! _You are not selecting a final topic yet_.
+
+* <strike> Then, get more specific about them. Do some web research in contemporary media - **venerable** news sites, websites [(see approved list)](NewsSites.md) etc. (post under "Future") 
 
 * Include a short analysis articulating:
 
@@ -219,7 +223,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you? I 
 
 	_You are not selecting a final topic yet_.
 
-* Time Management: <b>this is a 2 week study</b><br><br><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Capture & Note time usage in 20 minute increments</a><br> <br><strong>^^Post all before March 7 9am ^^</strong>
+* Time Management: <b>this is a 2 week study</b><br><br><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Capture & Note time usage in 20 minute increments</a><br> <br><strong>^^Post all before March 7 9am ^^</strong> </strike>
   </td></tr> 
 
 
@@ -227,8 +231,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you? I 
     <td valign="top">week 7: March 4th & 9th<p> </p> </td>
     <td valign="top"> 
 
-* Short Presentations regarding your Iterative Object Process
-* Observations of Future Project Topics
+* Observations regarding The Future Project 
 * Assumptions
 * Introduction: Moodboard & Stakeholders
 * Time in Class : Categories & mindmaps 
@@ -237,14 +240,21 @@ Write about a personal Yes, And experience. What shifted? What surprised you? I 
 <td>
  <strong><u>Reading & Analyze</u></strong><br>
 
-* feedback for two of your classmates <br><br>
+* Future topic: Now get more specific about it. Do some web research in contemporary media - **venerable** news sites, websites [(see approved list)](NewsSites.md) etc. (post under "Future"). Find three sources of interest. Reference the source and write brief notes how it's of use to your project.
+
+* Include a short analysis articulating:
+
+        * Which directions feel compelling
+
+        * What questions remain unresolved
+
 * Finish Don't Read This Book - Chapter 5: Projects: Leave Out Extras
 
 <strong><u>Process Work</u></strong> <br>
 * Begin devloping a moodboard that helps to decribe your Future World
-* Begin to Identify Stakeholders within your topic with reference to this world
-* Pick 4 of the 11 categories from the game Investing in the Future, to integrate into your world. Identify and articulate them.
-* Start to develop mindmaps or lists for each of these categories.
+* Begin to Identify Stakeholders within your topic with reference to this world. Create a mindmap or list
+* new: Pick 4 of the 11 categories from the game Investing in the Future, to integrate into your world OR create your own. What are they? How do they work? (just like in the game, the category cards. It's not the same from your group game play.)
+* Start to develop INITIAL mindmaps or lists for each of these categories.
 * What are you assuming about your topic. [See the Miro board example](https://miro.com/app/board/uXjVLWECVQo=/?share_link_id=191395479074) Use this as a template. Do an extensive investgation of your assumptions. What are the dangers in these assumptions? How are they impacting your research? (post under Future Project)
 * Time Management: <b>this is a 2 week study</b><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Reorganize your time</a><br><br>
 <strong>^^Post all before March 14 9am ^^</strong>

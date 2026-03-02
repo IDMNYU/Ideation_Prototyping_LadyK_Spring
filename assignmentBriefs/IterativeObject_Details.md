@@ -16,7 +16,7 @@ Project brief topics for [Iterative Object Project](../IterativeObjectProject.md
 	* a mug that forces you to drink slower
 	* a backpack that subtly rearranges its contents
 	* a device that over-explains simple decisions
-	* a door handle that asks permission before oopenting
+	* a door handle that asks permission before opening
 * Constraints:
 	* Max 3 materials
 	* Must involve at least one physical interaction
@@ -32,7 +32,7 @@ Project brief topics for [Iterative Object Project](../IterativeObjectProject.md
 	* Produces or responds to an emotion
 	* Has no screen
 	* Has no explicit instructions
-* Possible emotional targeets
+* Possible emotional targets
 	* mild anxiety
 	* comfort
 	* anticipation
