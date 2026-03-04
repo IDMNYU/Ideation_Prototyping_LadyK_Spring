@@ -256,7 +256,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you? I 
 * new: Pick 4 of the 11 categories from the game Investing in the Future, to integrate into your world OR create your own. What are they? How do they work? (just like in the game, the category cards. It's not the same from your group game play.)
 * Start to develop INITIAL mindmaps or lists for each of these categories.
 * What are you assuming about your topic. [See the Miro board example](https://miro.com/app/board/uXjVLWECVQo=/?share_link_id=191395479074) Use this as a template. Do an extensive investgation of your assumptions. What are the dangers in these assumptions? How are they impacting your research? (post under Future Project)
-* Time Management: <b>this is a 2 week study</b><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Reorganize your time</a><br><br>
+* <a href = "/TimeManagementTechniques/tm_Inventory_Audit.md"> Time Management Inventory Audit: Take inventory over 3-4 work sessions for 20 minutes. Document it. Then, Reorganize your time to get the most out of it with reference to your goals.</a><br><br>
 <strong>^^Post all before March 14 9am ^^</strong>
     </td></tr>  
 
@@ -274,6 +274,8 @@ Write about a personal Yes, And experience. What shifted? What surprised you? I 
     <td valign="top">wk 8: March 11th & 23rd <p> </p> </td>
     <td valign="top"> 
 
+* <a href = "/TimeManagementTechniques/tm_Inventory_Audit.md"> Time Audit - How did it go? + next steps </a>
+
 * Observations Regarding Future Project Development
 
 * Headlines, Business, Advertisement exercises
@@ -285,7 +287,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you? I 
 * [The 5 Why's & using it to help deepen your understanding and research](https://miro.com/app/board/uXjVLk2bckY=/?share_link_id=177816181183)
 
 * Concept Maps & Inclass Exercise
-* Time Management: <a href = "/TimeManagementTechniques/tm_Willpower.md">Willpower</a>
+
 
 </td> <td>
 
@@ -298,7 +300,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you? I 
 * Collect 2 resources regarding some of your  *categories* topic of your Future project & give a short analysis of their use & importance with reference to your project (post under Future Project)
 * Develop your Stakeholders and Moodboard considering your research. What do you notice about the complexity & diversity of your Stakeholders? (post under Future Project)
 * Begin developing your Concept Map for your Future Project. What do you not know at this point with reference to your topic? What research can you do to strengthen your project? (post under Future Project)
-* Time Management: <a href = "/TimeManagementTechniques/tm_Willpower.md">Willpower</a> <br> <br>
+* <a href = "/TimeManagementTechniques/tm_Inventory_Audit.md"> Time Management Inventory Audit: Look over how your time was spent. Then, Reorganize your time to get the most out of it with reference to your goals. Try the new design out for 3-4 days. </a><br><br>
 <strong>^^Post all before March 28 9am ^^</strong>
     </td></tr>
 
@@ -311,7 +313,8 @@ Write about a personal Yes, And experience. What shifted? What surprised you? I 
 * Sticky Steps 
 * Ethics Exercises 
 * <a href = "/assignmentBriefs/Artifact_Tool.md"> Future Artifact </a>
-* Time Management: <b> This is a two week study<br><br></b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Observe your energy throughout several days. Document.</a></td> <td>
+* Time Management: <a href = "/TimeManagementTechniques/tm_Willpower.md">Willpower</a> <br> <br>
+</td> <td>
 
 <strong><u>Reading & Analyze</u></strong><br>
 * Feedback for 2 of your classmates <br><br>
@@ -323,7 +326,8 @@ Write about a personal Yes, And experience. What shifted? What surprised you? I 
 * Identify 3 other resources for your project. Discuss how they will help your project.
 * Post your Ethics exercise work. How does this impact your perspective of the Future Project? How does this inform new possibilities and new things to research?
 * <a href = "/assignmentBriefs/Artifact_Tool.md"> Future Artifact </a>
-* Time Management: <b> This is a two week study<br><br></b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Observe your energy throughout several days. Document.</a> <br> <br> <strong>^^Post all before April 4th 9am ^^</strong>
+* Time Management: <a href = "/TimeManagementTechniques/tm_Willpower.md">Willpower</a> <br> <br>
+Energy Mapping: Observe your energy throughout several days. Document.</a> <br> <br> <strong>^^Post all before April 4th 9am ^^</strong>
     </td></tr>
 
 
