@@ -223,7 +223,7 @@ Write about a personal Yes, And experience. What shifted? What surprised you? I 
 
 	_You are not selecting a final topic yet_.
 
-* Time Management: <b>this is a 2 week study</b><br><br><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Capture & Note time usage in 20 minute increments</a><br> <br></strike><strong>^^Post all before March 7 9am ^^</strong> 
+* Time Management: <b>this is a 3-4 day study</b><br><br><a href = "/TimeManagementTechniques/tm_Inventory_Audit.md">Inventory Audit: Capture & Note time usage in 20 minute increments</a><br> <br></strike><strong>^^Post all before March 7 9am ^^</strong> 
   </td></tr> 
 
 
