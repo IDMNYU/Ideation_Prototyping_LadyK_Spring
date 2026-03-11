@@ -253,11 +253,11 @@ Write about a personal Yes, And experience. What shifted? What surprised you? I 
 <strong><u>Process Work</u></strong> <br>
 * Begin devloping a moodboard that helps to decribe your Future World
 * Begin to Identify Stakeholders within your topic with reference to this world. Create a mindmap or list
-* new: Pick 4 of the 11 categories from the game Investing in the Future, to integrate into your world OR create your own. What are they? How do they work? (just like in the game, the category cards. It's not the same from your group game play.)
+* new: Pick 5-7 elements/layers out of the 10 (see slides slack: Speculative Futures Exercise) to integrate into your world. What are they? How do they work? (just like in the game, the category cards.)
 * Start to develop INITIAL mindmaps or lists for each of these categories.
 * What are you assuming about your topic. [See the Miro board example](https://miro.com/app/board/uXjVLWECVQo=/?share_link_id=191395479074) Use this as a template. Do an extensive investgation of your assumptions. What are the dangers in these assumptions? How are they impacting your research? (post under Future Project)
 * <a href = "/TimeManagementTechniques/tm_Inventory_Audit.md"> Time Management Inventory Audit: Take inventory over 3-4 work sessions for 20 minutes. Document it. Then, Reorganize your time to get the most out of it with reference to your goals.</a><br><br>
-<strong>^^Post all before March 14 9am ^^</strong>
+<strong>^^Post all before March 13 9pm ^^</strong>
     </td></tr>  
 
 
@@ -278,21 +278,25 @@ Write about a personal Yes, And experience. What shifted? What surprised you? I 
 
 * Observations Regarding Future Project Development
 
-* Headlines, Business, Advertisement exercises
+<strike> * Headlines, Business, Advertisement exercises </strike>
+
+* <a href = "https://style.mla.org/works-cited/works-cited-a-quick-guide/?gad_source=1&gad_campaignid=21630444651&gbraid=0AAAAADgID6cCJVc_XJKpBu_AkptkAWvkN&gclid=Cj0KCQjwgr_NBhDFARIsAHiUWr7kZISnVkUaGpNhvSNIwC7CetLgrxKUToRc0v6dB04dNprLdPgqp8oaApe_EALw_wcB">Creating Proper Annotations - MLA </a>
+
+* Assumptions
 
 * Who, What, When, Where, Why, How? (5WH)
-
-* Research techniques : Universal Methods of Research 
 
 * [The 5 Why's & using it to help deepen your understanding and research](https://miro.com/app/board/uXjVLk2bckY=/?share_link_id=177816181183)
 
 * Concept Maps & Inclass Exercise
 
+* Research techniques : Universal Methods of Research 
+
 
 </td> <td>
 
 <strong><u>Reading & Analyze</u></strong><br>
-* Feedback for two of your classmates <br><br>
+<strike> * Feedback for two of your classmates </strike><br><br>
 * Read Show Your Work! Ch. 1-3
 
 <strong><u>Process Work</u></strong> <br>
