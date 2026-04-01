@@ -355,7 +355,7 @@ Energy Mapping: Observe your energy throughout several days. Document.</a> <br> 
 * Futher develop your Concept Map, Stakeholders, Moodboard and Timeline. How is your project developing? What areas need to be addressed? What pivots and changes are happening? 
 * Draft 2 personas
 * <a href = "/assignmentBriefs/Artifact_Tool.md"> Future Artifact </a>
-* Time Management: <b> This is a two week study</b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Reorder your tasks appropriate to your energy mapping</a><br> <br> <strong>^^Post all before April 11th 9am ^^</strong>
+* Time Management: <b> This is a two week study</b><a href = "/TimeManagementTechniques/tm_energyMapping.md">Energy Mapping: Reorder your tasks appropriate to your energy mapping</a><br> <br> <strike>^^Post all before April 11th 9am ^^</strike> <br> <strong>^^Post all before April 19th 9pm/21:00 ^^</strong>
     </td></tr>
 
 <tr>
@@ -376,7 +376,7 @@ Energy Mapping: Observe your energy throughout several days. Document.</a> <br> 
 * Mindmap an artifact from this world and use the Crazy Eights exercise to explore possibilities to prototype.
 * Begin drafting a storyboard. This is to be a story that takes place in your world. It is not a rationale for your world, nor how your world came into being.
 * <a href = "/assignmentBriefs/Artifact_Tool.md"> Future Artifact </a>
-* Time Management: Hybrid! Design your own with what's worked. Tell us about it. <br> <br> <strong>^^Post all before April 18th 9am ^^</strong>
+* Time Management: Hybrid! Design your own with what's worked. Tell us about it. <br> <br> <strike>^^Post all before April 18th 9am ^^</strike> <br> <strong>^^Post all before April 19th 9pm/21:00 ^^</strong>
     </td></tr>
 
 
@@ -397,7 +397,8 @@ Energy Mapping: Observe your energy throughout several days. Document.</a> <br> 
 * <a href = "/assignmentBriefs/Artifact_Tool.md"> Future Artifact </a>
 * Future Presentation Brainstorm
 
-<br> <br> <strong>^^Post all before April 25th 9am ^^</strong>
+<br> <br> <strike>^^Post all before April 25th 9am ^^</strike>
+<br> <strong>^^Post all before April 26th 9pm/21:00 ^^</strong>
     </td></tr> 
 
 
@@ -413,7 +414,7 @@ Energy Mapping: Observe your energy throughout several days. Document.</a> <br> 
 <strong><u>Process Work</u></strong> <br>
 * Research & Develop your Future Presentation Brainstorm
 * Finalize your Storyboard
-<br> <br> <strong>^^Post all before May 2nd 9am ^^</strong>
+<br> <br> <strike>^^Post all before May 2nd 9am ^^</strike><strong>^^Post all before May 3nd 9pm/21:00 ^^</strong>
     </td></tr>
 
 <tr>
@@ -424,13 +425,13 @@ Future Presentations & Artifacts</td> <td>
 
 <strong><u>Process Work</u></strong> <br>
 * Iterate your presentation and develop what is needed. 
-<br> <br> <strong>^^Post all before May 9th 9am ^^</strong>
+<br> <br> <strong>^^Post all before May 10th 9pm/21:00 ^^</strong>
     </td></tr>
 
 <tr>
     <td valign="top">wk 15: May 6th & 11th <p> </p> </td>
     <td valign="top"> 
-Post all remaining work and autopsy's by May 9th noon to your sites </td> <td>
+Post all remaining work and autopsy's by May 10th n9pm/21:00 to your sites </td> <td>
 
 **HAVE A GREAT SUMMER**
     </td></tr>      
