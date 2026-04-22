@@ -126,7 +126,7 @@ ____________________________________________________________
 
 Part 3: Final Narrative & Presentation
 
-15% of Final Course Grade
+10% of FINAL Course Grade
 
 For the final, you will inhabit the future you created.
 
