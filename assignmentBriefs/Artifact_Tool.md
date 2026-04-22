@@ -23,6 +23,7 @@ The goal of this assignment is to materialize your speculative future and use ph
 
 The artifact should only make sense in the future you’ve designed.
 
+
 ### Expectations
 
 This is not a full iterative object design project.
@@ -59,6 +60,8 @@ You must document the development of your artifact on your Process Site. This in
 
 	* What problem, need, or condition does it respond to?
 
+	* Artifact meaningfully emerges from the world
+
 2. Ideation & Exploration
 
 	* Sketches, mind maps, or diagrams
@@ -66,6 +69,8 @@ You must document the development of your artifact on your Process Site. This in
 	* At least 1-2 alternate direction(2) you considered and abandoned or advanced
 
 	* Notes on assumptions you discovered or challenged
+
+	* Prototyping shows exploration, not just execution
 
 3. Material & Form Decisions
 
@@ -82,6 +87,8 @@ You must document the development of your artifact on your Process Site. This in
 	* May include mixed media, found objects, soft materials, rough fabrication, etc.
 
 	* The artifact must exist in physical space (not purely digital)
+
+	* Form supports narrative and system logic
 
 5. Reflection
 

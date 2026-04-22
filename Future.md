@@ -156,7 +156,7 @@ Future Project Grading Rubric
 
 This rubric evaluates the trajectory of your work, not isolated deliverables. A polished final outcome does not compensate for weak process. Strong process can compensate for imperfect outcomes.
 
-1. **Process & Iteration (35%)**
+1. **Process & Iteration (40%)**
 
 		* Clear week-to-week development
 
@@ -191,19 +191,13 @@ Low: Research is decorative or disconnected
 High: World feels complex and lived-in
 Low: World relies on clichés or naïve futurism
 
-4. **Artifact & Material Exploration (10%)**
-
-		* Artifact meaningfully emerges from the world
-
-		* Prototyping shows exploration, not just execution
-
-		* Form supports narrative and system logic
-
-5. **Communication & Documentation (10%)**
+4. **Communication & Documentation (15%)**
 
 		* Process Site is clear, annotated, and navigable
 
 		* Reflections articulate decisions and uncertainties
 
 		* Final presentation communicates the world effectively
+
+
 
